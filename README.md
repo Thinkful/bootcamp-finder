@@ -1,5 +1,9 @@
 # Bootcamp Finder
-All the data used in Thinkful's Bootcamp Finder tool.
+All the data used in Thinkful's
+[Bootcamp Finder](https://www.thinkful.com/bootcamps/) tool.
+
+## Contributing
+To update the data for your bootcamp, fork this repo and make a pull request.
 
 ## License
 Bootcamp Finder is &copy; Thinkful, Inc. 2016. Individual contributions that
