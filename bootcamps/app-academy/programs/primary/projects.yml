@@ -1,0 +1,12 @@
+- content: http://mycoachella.herokuapp.com/
+  image_url: http://i.imgur.com/ICWMy0S.png
+  slug: student-project-1
+  title: Student Project 1
+- content: http://myface.rama.io/
+  image_url: http://i.imgur.com/2Sm7m3f.png
+  slug: student-project-3
+  title: Student Project 3
+- content: http://kanban.seanomlor.com/
+  image_url: http://i.imgur.com/GrcN0WD.png
+  slug: student-project-2
+  title: Student Project 2

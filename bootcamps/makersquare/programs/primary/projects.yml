@@ -1,0 +1,16 @@
+- content: http://embe.rs/
+  image_url: http://i.imgur.com/C4qJXBa.png
+  slug: student-project-2
+  title: Student Project 2
+- content: http://shop141-dev.herokuapp.com/
+  image_url: http://i.imgur.com/XzJ3EDA.jpg
+  slug: student-project-1
+  title: Student Project 1
+- content: http://carewell.herokuapp.com/users/sign_in
+  image_url: http://i.imgur.com/cZoqjSN.png
+  slug: student-project-3
+  title: Student Project 3
+- content: http://raggedy.herokuapp.com/
+  image_url: http://i.imgur.com/5vsUDME.png
+  slug: student-project-4
+  title: Student Project 4

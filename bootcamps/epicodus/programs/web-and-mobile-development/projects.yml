@@ -1,0 +1,12 @@
+- content: http://stolen-bicycle-registry.herokuapp.com/
+  image_url: http://i.imgur.com/Z3tk194.png
+  slug: student-project-1
+  title: Student Project 1
+- content: http://chicktech.herokuapp.com/
+  image_url: http://i.imgur.com/ynEZ3Lg.png
+  slug: student-project-2
+  title: Student Project 2
+- content: https://sublime-learning.herokuapp.com/
+  image_url: http://i.imgur.com/McZcArY.png
+  slug: student-project-3
+  title: Student Project 3

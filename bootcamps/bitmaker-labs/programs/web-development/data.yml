@@ -1,0 +1,39 @@
+acceptance_rate: null
+admissions: Application
+cities:
+- toronto
+class_size: ''
+commitment: full-time
+cost_description: $9,000
+display_name: Web Development
+duration: 9
+duration_units: weeks
+financing: "Yes"
+full_slug: bitmaker-labs-web-development
+guarantee: "No"
+hiring_partners:
+- thoughtworks
+- financeit
+- ibm-design
+- cstreets-campaigns
+- shopify
+- hootsuite
+hours_per_week: 0
+ideal_for: beginner
+job_placement_rate: 0
+number_of_graduates: 0
+placement: 90% of graduates land a job within 3 months of graduation
+program_slug: web-development
+promises_job: false
+scholarships: For women
+status: public
+student_teacher_ratio: 0
+syllabus: null
+topics:
+- javascript
+- ruby-on-rails
+- html
+- css
+tuition: 9000
+tuition_units: CAD $
+reports_outcome: "No"

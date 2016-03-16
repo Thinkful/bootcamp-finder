@@ -1,0 +1,12 @@
+- content: http://whorunit.herokuapp.com/
+  image_url: http://i.imgur.com/35zZz5z.png
+  slug: student-project-1
+  title: Student Project 1
+- content: http://www.filters.io/
+  image_url: http://i.imgur.com/saYNGx4.png
+  slug: student-project-3
+  title: Student Project 3
+- content: http://www.instatap.es/
+  image_url: http://i.imgur.com/Sr0YEyq.png
+  slug: student-project-2
+  title: Student Project 2

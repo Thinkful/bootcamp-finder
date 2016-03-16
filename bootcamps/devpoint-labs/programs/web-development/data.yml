@@ -1,0 +1,43 @@
+acceptance_rate: null
+admissions: Application
+cities:
+- salt-lake-city
+- las-vegas
+class_size: '20'
+commitment: full-time
+cost_description: $9,500
+display_name: Web Development
+duration: 11
+duration_units: weeks
+financing: "No"
+full_slug: devpoint-labs-web-development
+guarantee: "No"
+hiring_partners:
+- orca-health
+- backcountry
+- neutron-interactive
+- moneydesktop
+- canvas
+- masteryconnect
+hours_per_week: 0
+ideal_for: beginner
+job_placement_rate: 0
+number_of_graduates: 0
+placement: Undisclosed
+program_slug: web-development
+promises_job: false
+scholarships: "No"
+status: public
+student_teacher_ratio: 0
+syllabus: null
+topics:
+- ruby-on-rails
+- javascript
+- sql
+- git
+- react
+- html
+- css
+tuition: 9500
+tuition_units: USD $
+reports_outcome: "No"

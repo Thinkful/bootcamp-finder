@@ -1,0 +1,39 @@
+acceptance_rate: null
+admissions: Application, interview
+cities:
+- chicago
+- san-francisco
+class_size: '20'
+commitment: full-time
+cost_description: $12,995 in SF and $10,995 in Chicago
+display_name: Primary
+duration: 8
+duration_units: weeks
+financing: "Yes"
+full_slug: mobile-makers-academy-primary
+guarantee: "No"
+hiring_partners:
+- quidsi
+- fueled
+- y-media-labs
+- lemonly
+- thoughtworks
+- spartz
+hours_per_week: 0
+ideal_for: beginner
+job_placement_rate: 90
+number_of_graduates: 0
+placement: 90% of graduates eventually land a job - time to hire unknown
+program_slug: primary
+promises_job: false
+scholarships: "No"
+status: public
+student_teacher_ratio: 0
+syllabus: http://www.mobilemakers.co/ios-bootcamp/#curriculum
+topics:
+- ios
+- xcode
+- storyboard
+tuition: 9000
+tuition_units: USD $
+reports_outcome: "No"

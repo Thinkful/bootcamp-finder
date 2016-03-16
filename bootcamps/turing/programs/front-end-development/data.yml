@@ -1,0 +1,34 @@
+acceptance_rate: null
+admissions: Application, interview
+cities:
+- denver
+class_size: null
+commitment: null
+cost_description: $17,500
+display_name: Front-end Development
+duration: 28
+duration_units: weeks
+financing: "Yes"
+full_slug: turing-front-end-development
+guarantee: "No"
+hiring_partners: []
+hours_per_week: 0
+ideal_for: null
+job_placement_rate: 0
+number_of_graduates: 0
+placement: 95% of graduates land a job within 3 months of graduation
+program_slug: front-end-development
+promises_job: null
+scholarships: "No"
+status: null
+student_teacher_ratio: 0
+syllabus: null
+topics:
+- javascript
+- react
+- ember-js
+- html
+- css
+tuition: 17500
+tuition_units: null
+reports_outcome: "No"

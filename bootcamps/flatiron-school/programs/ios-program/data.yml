@@ -1,0 +1,38 @@
+acceptance_rate: null
+admissions: Application, interview, coding challenge, 150 hours of prep work
+cities:
+- new-york
+class_size: '32'
+commitment: full-time
+cost_description: $15,000
+display_name: iOS Program
+duration: 11
+duration_units: weeks
+financing: "Yes"
+full_slug: flatiron-school-ios-program
+guarantee: "No"
+hiring_partners:
+- plated
+- justworks
+- artsy
+hours_per_week: 0
+ideal_for: beginner
+job_placement_rate: 0
+number_of_graduates: 0
+placement: 95% of graduates land jobs within 120 days of graduation
+program_slug: ios-program
+promises_job: false
+scholarships: For women and minorities
+status: public
+student_teacher_ratio: 0
+syllabus: null
+topics:
+- objective-c
+- xcode
+- sdks
+- git
+- tdd
+- ios
+tuition: 15000
+tuition_units: USD $
+reports_outcome: "Yes"

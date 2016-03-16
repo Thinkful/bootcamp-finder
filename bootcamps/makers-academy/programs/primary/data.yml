@@ -1,0 +1,41 @@
+acceptance_rate: null
+admissions: Application
+cities:
+- london
+class_size: ''
+commitment: full-time
+cost_description: £8,000
+display_name: Primary
+duration: 12
+duration_units: weeks
+financing: "Yes"
+full_slug: makers-academy-primary
+guarantee: "No"
+hiring_partners:
+- discoverables
+- new-bamboo
+- pivotal-labs
+- global-personals
+- skimlinks
+- mint-digital
+hours_per_week: 0
+ideal_for: beginner
+job_placement_rate: 0
+number_of_graduates: 0
+placement: Undisclosed
+program_slug: primary
+promises_job: false
+scholarships: "No"
+status: public
+student_teacher_ratio: 0
+syllabus: ''
+topics:
+- html
+- css
+- git
+- ruby-on-rails
+- javascript
+- testing
+tuition: 8000
+tuition_units: "GBP \xA3"
+reports_outcome: "No"

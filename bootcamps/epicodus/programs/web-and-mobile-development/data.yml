@@ -1,0 +1,41 @@
+acceptance_rate: null
+admissions: Application
+cities:
+- portland
+class_size: '8'
+commitment: full-time
+cost_description: $4,250
+display_name: Web and Mobile Development
+duration: 25
+duration_units: weeks
+financing: "No"
+full_slug: epicodus-web-and-mobile-development
+guarantee: "No"
+hiring_partners:
+- planet-argon
+- cloudability
+- factorio
+- metal-toad
+- nike
+- puppet-labs
+hours_per_week: 0
+ideal_for: beginner
+job_placement_rate: 0
+number_of_graduates: 0
+placement: Undisclosed
+program_slug: web-and-mobile-development
+promises_job: false
+scholarships: "No"
+status: public
+student_teacher_ratio: 0
+syllabus: null
+topics:
+- html
+- css
+- javascript
+- ruby-on-rails
+- php
+- android
+tuition: 4250
+tuition_units: USD $
+reports_outcome: "No"

@@ -1,0 +1,39 @@
+acceptance_rate: null
+admissions: Application, interview, prep work
+cities:
+- new-york
+class_size: '20'
+commitment: full-time
+cost_description: $10,000
+display_name: Web Development Intensive
+duration: 12
+duration_units: weeks
+financing: "Yes"
+full_slug: nycda-web-development-intensive
+guarantee: "No"
+hiring_partners:
+- bauer-media-group
+- the-orchard
+- wired
+- conde-nast
+hours_per_week: 0
+ideal_for: beginner
+job_placement_rate: 0
+number_of_graduates: 0
+placement: Undisclosed
+program_slug: web-development-intensive
+promises_job: false
+status: public
+student_teacher_ratio: 0
+scholarships: "No"
+syllabus: ''
+topics:
+- javascript
+- ruby-on-rails
+- html
+- git
+- jquery
+- css
+tuition: 10000
+tuition_units: USD
+reports_outcome: "No"

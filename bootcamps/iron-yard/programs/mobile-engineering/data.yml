@@ -1,0 +1,39 @@
+acceptance_rate: null
+admissions: Application, interview
+cities:
+- charlotte
+- houston
+- indianapolis
+- nashville
+- salt-lake-city
+- washington-dc
+- london
+class_size: '15'
+commitment: full-time
+cost_description: $12,000 or £8,000
+display_name: Mobile Engineering
+duration: 12
+duration_units: weeks
+financing: "Yes"
+full_slug: iron-yard-mobile-engineering
+guarantee: "No"
+hiring_partners: []
+hours_per_week: 60
+ideal_for: beginner
+job_placement_rate: 0
+number_of_graduates: 0
+placement: Undisclosed
+program_slug: mobile-engineering
+promises_job: true
+scholarships: For women and veterans
+status: public
+student_teacher_ratio: 0
+syllabus: ''
+topics:
+- ios
+- objective-c
+- cocoa
+- testing
+tuition: 12000
+tuition_units: USD
+reports_outcome: "No"

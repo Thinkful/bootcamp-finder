@@ -1,0 +1,12 @@
+- content: http://world-traveller.herokuapp.com/
+  image_url: http://i.imgur.com/bAMPMFF.png
+  slug: student-project-3
+  title: Student Project 3
+- content: http://www.sentimentalist.me/
+  image_url: http://i.imgur.com/d3lrC0w.png
+  slug: student-project-1
+  title: Student Project 1
+- content: http://terribletracker-staging.herokuapp.com/users/sign_in
+  image_url: http://i.imgur.com/Mqe1s87.png
+  slug: student-project-2
+  title: Student Project 2

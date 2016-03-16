@@ -1,0 +1,34 @@
+acceptance_rate: null
+admissions: Application, interview, prep work
+cities:
+- phoenix
+class_size: '20'
+commitment: full-time
+cost_description: $8,000
+display_name: 'Web Development '
+duration: 12
+duration_units: weeks
+financing: "No"
+full_slug: rockit-web-development
+guarantee: "No"
+hiring_partners: []
+hours_per_week: 60
+ideal_for: null
+job_placement_rate: 0
+number_of_graduates: 0
+placement: Undisclosed
+program_slug: web-development
+promises_job: null
+scholarships: "No"
+status: public
+student_teacher_ratio: 0
+syllabus: null
+topics:
+- javascript
+- css
+- php
+- mysql
+- html
+tuition: 8000
+tuition_units: USD
+reports_outcome: "No"

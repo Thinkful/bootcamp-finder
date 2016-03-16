@@ -1,0 +1,35 @@
+acceptance_rate: null
+admissions: Application, interview
+cities:
+- austin
+- columbia
+class_size: null
+commitment: null
+cost_description: $12,000 or £8,000
+display_name: User Interface Design
+duration: 12
+duration_units: weeks
+financing: "Yes"
+full_slug: iron-yard-user-interface-design
+guarantee: "No"
+hiring_partners: []
+hours_per_week: 0
+ideal_for: null
+job_placement_rate: 0
+number_of_graduates: 0
+placement: Undisclosed
+program_slug: user-interface-design
+promises_job: null
+scholarships: For women and veterans
+status: null
+student_teacher_ratio: 0
+syllabus: null
+topics:
+- html
+- css
+- wireframing
+- typography
+- ui
+tuition: null
+tuition_units: null
+reports_outcome: "No"

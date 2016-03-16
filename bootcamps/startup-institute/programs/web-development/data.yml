@@ -1,0 +1,42 @@
+acceptance_rate: null
+admissions: Application, interviews
+cities:
+- new-york
+- chicago
+- boston
+class_size: '60'
+commitment: full-time
+cost_description: $7,100
+display_name: Web Development
+duration: 8
+duration_units: weeks
+financing: "Yes"
+full_slug: startup-institute-web-development
+guarantee: "No"
+hiring_partners:
+- uber
+- swipely
+- bitly
+- belly
+- stray-boots
+- renthop
+hours_per_week: 0
+ideal_for: beginner
+job_placement_rate: 0
+number_of_graduates: 0
+placement: Undisclosed
+program_slug: web-development
+promises_job: false
+scholarships: "No"
+status: public
+student_teacher_ratio: 0
+syllabus: null
+topics:
+- ruby-on-rails
+- javascript
+- git
+- html
+- css
+tuition: 7100
+tuition_units: USD $
+reports_outcome: "No"

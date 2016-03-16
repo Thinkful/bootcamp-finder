@@ -1,0 +1,33 @@
+acceptance_rate: null
+admissions: Application, interview
+cities:
+- denver
+class_size: '20'
+commitment: full-time
+cost_description: $17,500
+display_name: Web Application Development
+duration: 28
+duration_units: weeks
+financing: "Yes"
+full_slug: turing-web-application-development
+guarantee: "No"
+hiring_partners: []
+hours_per_week: 40
+ideal_for: null
+job_placement_rate: 0
+number_of_graduates: 0
+placement: 95% of graduates land a job within 3 months of graduation
+program_slug: web-application-development
+promises_job: null
+scholarships: "No"
+status: public
+student_teacher_ratio: 0
+syllabus: null
+topics:
+- javascript
+- ruby-on-rails
+- testing
+- sinatra
+tuition: 17500
+tuition_units: USD
+reports_outcome: "No"

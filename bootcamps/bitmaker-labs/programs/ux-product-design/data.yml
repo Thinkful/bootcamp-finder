@@ -1,0 +1,34 @@
+acceptance_rate: null
+admissions: Application
+cities:
+- toronto
+class_size: null
+commitment: full-time
+cost_description: $9,000
+display_name: UX & Product Design
+duration: 9
+duration_units: weeks
+financing: "Yes"
+full_slug: bitmaker-labs-ux-product-design
+guarantee: "No"
+hiring_partners: []
+hours_per_week: 0
+ideal_for: null
+job_placement_rate: 0
+number_of_graduates: 0
+placement: 90% of graduates land a job within 3 months of graduation
+program_slug: ux-product-design
+promises_job: null
+scholarships: For women
+status: null
+student_teacher_ratio: 0
+syllabus: null
+topics:
+- design
+- prototyping
+- user-research
+- wireframing
+- testing
+tuition: 9000
+tuition_units: null
+reports_outcome: "No"

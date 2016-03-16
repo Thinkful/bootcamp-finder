@@ -1,0 +1,41 @@
+acceptance_rate: null
+admissions: Application
+cities:
+- vancouver
+class_size: ''
+commitment: full-time
+cost_description: 8,600 CAD
+display_name: Primary
+duration: 12
+duration_units: weeks
+financing: "Yes"
+full_slug: codecore-bootcamp-primary
+guarantee: "No"
+hiring_partners:
+- fundrazr
+- gunio
+- guestfolio
+- hootsuite
+- lemonstand
+- picatic
+hours_per_week: 0
+ideal_for: beginner
+job_placement_rate: 0
+number_of_graduates: 0
+placement: Undisclosed
+program_slug: primary
+promises_job: false
+scholarships: For women
+status: public
+student_teacher_ratio: 0
+syllabus: ''
+topics:
+- javascript
+- ruby-on-rails
+- git
+- ux
+- html
+- css
+tuition: 8600
+tuition_units: CAD
+reports_outcome: "No"

@@ -1,0 +1,36 @@
+acceptance_rate: null
+admissions: Open to anyone
+cities:
+- remote
+class_size: '1'
+commitment: full-time
+cost_description: $1,400 per month
+display_name: Web Development Career Path
+duration: 6
+duration_units: months
+financing: "Yes"
+full_slug: thinkful-web-development-career-path
+guarantee: Yes - Thinkful guarantees you a job within 4 months of graduation or your money back
+hiring_partners: []
+hours_per_week: 20
+ideal_for: beginner
+job_placement_rate: 100
+number_of_graduates: 23
+placement: 93% of graduates land an engineering job within 4 months of graduation.
+program_slug: web-development-career-path
+promises_job: true
+scholarships: For women and veterans
+status: public
+student_teacher_ratio: 1
+syllabus: ''
+topics:
+- angular-js
+- node-js
+- javascript
+- html
+- css
+- ui
+- ux
+tuition: 1400
+tuition_units: USD
+reports_outcome: "Yes"

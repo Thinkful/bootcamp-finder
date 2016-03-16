@@ -1,0 +1,42 @@
+acceptance_rate: 0.13
+admissions: Application, interview
+cities:
+- san-francisco
+class_size: '28'
+commitment: full-time
+cost_description: $16,750
+display_name: Engineering Fellowship
+duration: 12
+duration_units: weeks
+financing: "Yes"
+full_slug: hackbright-academy-engineering-fellowship
+guarantee: "No"
+hiring_partners:
+- square
+- facebook
+- twitter
+- eventbrite
+- surveymonkey
+- pinterest
+hours_per_week: 0
+ideal_for: beginner
+job_placement_rate: 90
+number_of_graduates: 54
+placement: Undisclosed
+program_slug: engineering-fellowship
+promises_job: false
+scholarships: For minorities
+status: public
+student_teacher_ratio: 0
+syllabus: ''
+topics:
+- html
+- css
+- javascript
+- git
+- sql
+- python
+- algorithms
+tuition: 16750
+tuition_units: USD $
+reports_outcome: "No"

@@ -1,0 +1,42 @@
+acceptance_rate: null
+admissions: Application
+cities:
+- chicago
+class_size: '10'
+commitment: full-time
+cost_description: $8,000
+display_name: Web Development
+duration: 10
+duration_units: weeks
+financing: "Yes"
+full_slug: starter-school-web-development
+guarantee: "No"
+hiring_partners:
+- g2-crowd
+- base-crm
+- 8th-light
+- the-nerdery
+- tank-design
+- grid-shift
+hours_per_week: 0
+ideal_for: beginner
+job_placement_rate: 0
+number_of_graduates: 0
+placement: Undisclosed
+program_slug: web-development
+promises_job: false
+scholarships: "No"
+status: public
+student_teacher_ratio: 0
+syllabus: null
+topics:
+- ruby-on-rails
+- ux
+- html
+- git
+- javascript
+- jquery
+- css
+tuition: 8000
+tuition_units: USD $
+reports_outcome: "No"

@@ -1,0 +1,39 @@
+acceptance_rate: null
+admissions: Application
+cities:
+- new-york
+- seattle
+- san-francisco
+- los-angeles
+- dallas
+class_size: '25'
+commitment: full-time
+cost_description: $9,450 in Dallas and $13,495 everywhere else
+display_name: Primary
+duration: 14
+duration_units: weeks
+financing: "Yes"
+full_slug: coding-dojo-primary
+guarantee: "No"
+hiring_partners:
+- presdo
+hours_per_week: 0
+ideal_for: beginner
+job_placement_rate: 0
+number_of_graduates: 0
+placement: 92% of graduates land a job within 3 months of graduation
+program_slug: primary
+promises_job: false
+scholarships: For college students, women, and veterans
+status: public
+student_teacher_ratio: 0
+syllabus: null
+topics:
+- lamp
+- mean
+- python
+- ruby-on-rails
+- ios
+tuition: 13495
+tuition_units: USD $
+reports_outcome: "No"

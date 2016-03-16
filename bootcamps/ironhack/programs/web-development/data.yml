@@ -1,0 +1,41 @@
+acceptance_rate: 0.15
+admissions: Application, interview, 60 weeks of prep work
+cities:
+- miami
+- madrid
+- barcelona
+class_size: 15-20
+commitment: full-time
+cost_description: $10,000 or £6500
+display_name: Web Development
+duration: 8
+duration_units: weeks
+financing: "Yes"
+full_slug: ironhack-web-development
+guarantee: "No"
+hiring_partners:
+- spotify
+- floqq
+- tuenti
+- xing
+- tapquo
+- telefonica-digital
+hours_per_week: 0
+ideal_for: beginner
+job_placement_rate: 0
+number_of_graduates: 0
+placement: Undisclosed
+program_slug: web-development
+promises_job: false
+scholarships: "No"
+status: public
+student_teacher_ratio: 0
+syllabus: http://www.ironhack.com/en/web-development-bootcamp-barcelona
+topics:
+- javascript
+- ruby-on-rails
+- html
+- css
+tuition: 6500
+tuition_units: EUR
+reports_outcome: "No"

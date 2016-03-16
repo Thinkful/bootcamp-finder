@@ -1,0 +1,50 @@
+acceptance_rate: null
+admissions: Application, interview
+cities:
+- atlanta
+- austin
+- charleston
+- charlotte
+- columbia
+- durham
+- greenville
+- houston
+- indianapolis
+- las-vegas
+- little-rock
+- minneapolis
+- nashville
+- salt-lake-city
+- washington-dc
+- london
+class_size: '15'
+commitment: full-time
+cost_description: $12,000 or £8,000
+display_name: Front-end Engineering
+duration: 12
+duration_units: weeks
+financing: "Yes"
+full_slug: iron-yard-front-end-engineering
+guarantee: "No"
+hiring_partners: []
+hours_per_week: 60
+ideal_for: beginner
+job_placement_rate: null
+number_of_graduates: null
+placement: Undisclosed
+program_slug: front-end-engineering
+promises_job: true
+scholarships: For women and veterans
+status: public
+student_teacher_ratio: null
+syllabus: ''
+topics:
+- javascript
+- html
+- css
+- mvc
+- react
+- node-js
+tuition: 12000
+tuition_units: USD
+reports_outcome: "No"

@@ -1,0 +1,12 @@
+- content: http://fhellow.herokuapp.com/
+  image_url: http://i.imgur.com/TLPqU7Z.png
+  slug: student-project-1
+  title: Student Project 1
+- content: http://tweetmapp.herokuapp.com/
+  image_url: http://i.imgur.com/oTvtOLa.png
+  slug: student-project-2
+  title: Student Project 2
+- content: http://www.oodls.io/
+  image_url: http://i.imgur.com/rGEpsej.png
+  slug: student-project-3
+  title: Student Project 3

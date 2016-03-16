@@ -1,0 +1,35 @@
+acceptance_rate: null
+admissions: Application, interview
+cities:
+- miami
+- ft-lauderdale
+class_size: null
+commitment: full-time
+cost_description: $10,000
+display_name: Web Immersive
+duration: 12
+duration_units: weeks
+financing: "Yes"
+full_slug: wyncode-web-immersive
+guarantee: "No"
+hiring_partners: []
+hours_per_week: 0
+ideal_for: null
+job_placement_rate: 0
+number_of_graduates: 0
+placement: 91% of graduates land a job within 3 months of graduation
+program_slug: web-immersive
+promises_job: null
+scholarships: "Yes"
+status: public
+student_teacher_ratio: 0
+syllabus: null
+topics:
+- ruby-on-rails
+- testing
+- git
+- html
+- css
+tuition: 10000
+tuition_units: USD
+reports_outcome: "No"

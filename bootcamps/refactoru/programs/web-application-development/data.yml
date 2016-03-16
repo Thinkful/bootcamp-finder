@@ -1,0 +1,43 @@
+acceptance_rate: null
+admissions: Application
+cities:
+- boulder
+class_size: '25'
+commitment: full-time
+cost_description: $13,500
+display_name: Web Application Development
+duration: 10
+duration_units: weeks
+financing: "Yes"
+full_slug: refactoru-web-application-development
+guarantee: "No"
+hiring_partners:
+- gigzolo
+- hyperiq
+- social-tables
+- markit
+- human-design
+- arcstone
+hours_per_week: 0
+ideal_for: beginner
+job_placement_rate: 0
+number_of_graduates: 0
+placement: Undisclosed
+program_slug: web-application-development
+promises_job: false
+scholarships: For veterans
+status: public
+student_teacher_ratio: 0
+syllabus: ''
+topics:
+- html
+- css
+- javascript
+- angular-js
+- node-js
+- mongodb
+- express
+- git
+tuition: 13500
+tuition_units: USD $
+reports_outcome: "No"

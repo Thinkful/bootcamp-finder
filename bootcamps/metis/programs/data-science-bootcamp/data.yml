@@ -1,0 +1,43 @@
+acceptance_rate: null
+admissions: Application, coding test, interview
+cities:
+- new-york
+- san-francisco
+class_size: '25'
+commitment: full-time
+cost_description: $14,000
+display_name: Data Science Bootcamp
+duration: 12
+duration_units: weeks
+financing: "Yes"
+full_slug: metis-data-science-bootcamp
+guarantee: "No"
+hiring_partners:
+- 3playmedia
+- backupify
+- coachup
+- constant-contact
+- iora-health
+- levelup
+hours_per_week: 0
+ideal_for: beginner
+job_placement_rate: 0
+number_of_graduates: 0
+guarantee: "No"
+placement: Undisclosed
+program_slug: data-science-bootcamp
+promises_job: false
+scholarships: For women and veterans
+status: public
+student_teacher_ratio: 0
+syllabus: null
+topics:
+- data-science
+- python
+- git
+- sql
+- d3
+- matplotlib
+tuition: 14000
+tuition_units: USD
+reports_outcome: "No"

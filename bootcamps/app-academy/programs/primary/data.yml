@@ -1,0 +1,45 @@
+acceptance_rate: null
+admissions: Application, 2 coding tests, interview
+cities:
+- new-york
+- san-francisco
+class_size: '20'
+commitment: full-time
+cost_description: 18% of first year salary and $5,000 refundable deposit
+display_name: Primary
+duration: 12
+duration_units: weeks
+financing: "Yes"
+full_slug: app-academy-primary
+guarantee: "No"
+hiring_partners:
+- zendesk
+- facebook
+- hipmunk
+- twilio
+- vimeo
+- thoughtbot
+hours_per_week: 0
+ideal_for: beginner
+job_placement_rate: 0
+number_of_graduates: 0
+placement: 98% of graduates eventually get hired with an average salary of $105k in SF and $89k in NY - time to hire unknown
+program_slug: primary
+promises_job: false
+scholarships: "No"
+status: public
+student_teacher_ratio: 0
+syllabus: ''
+topics:
+- algorithms
+- ruby-on-rails
+- mvc
+- javascript
+- react
+- git
+- postgresql
+- css
+- html
+tuition: 16380
+tuition_units: USD $
+reports_outcome: "No"

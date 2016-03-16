@@ -1,0 +1,38 @@
+acceptance_rate: null
+admissions: Application, interview, 4 weeks of prep work
+cities:
+- vancouver
+- toronto
+- calgary
+- montreal
+class_size: '20'
+commitment: full-time
+cost_description: $8,000 CAD
+display_name: Web Development Program
+duration: 8
+duration_units: weeks
+financing: "Yes"
+full_slug: lighthouse-labs-web-development-program
+guarantee: "No"
+hiring_partners: []
+hours_per_week: 70
+ideal_for: beginner
+job_placement_rate: 100
+number_of_graduates: 0
+placement: Undisclosed
+program_slug: web-development-program
+promises_job: false
+scholarships: "No"
+status: public
+student_teacher_ratio: 5
+syllabus: ''
+topics:
+- javascript
+- ruby-on-rails
+- html
+- css
+- sql
+- testing
+tuition: 8000
+tuition_units: CAD
+reports_outcome: "No"

@@ -1,0 +1,46 @@
+acceptance_rate: null
+admissions: Application
+cities:
+- atlanta
+- austin
+- boston
+- chicago
+- hong-kong
+- london
+- los-angeles
+- new-york
+- san-francisco
+- seattle
+- sydney
+- washington-dc
+class_size: null
+commitment: null
+cost_description: $14,500
+display_name: Data Science Immersive
+duration: 12
+duration_units: weeks
+financing: "Yes"
+full_slug: general-assembly-data-science-immersive
+guarantee: "No"
+hiring_partners: []
+hours_per_week: 0
+ideal_for: null
+job_placement_rate: 0
+number_of_graduates: 0
+placement: Undisclosed
+program_slug: data-science-immersive
+promises_job: null
+scholarships: "No"
+status: null
+student_teacher_ratio: 0
+syllabus: null
+topics:
+- git
+- unix
+- sql
+- python
+- big-data
+- data-science
+tuition: 14500
+tuition_units: null
+reports_outcome: "No"

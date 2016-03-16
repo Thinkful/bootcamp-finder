@@ -1,0 +1,36 @@
+acceptance_rate: null
+admissions: Application, 6 weeks of prep work
+cities:
+- chicago
+class_size: '20'
+commitment: full-time
+cost_description: $11,800
+display_name: Full-Stack Design Bootcamp
+duration: 12
+duration_units: weeks
+financing: "Yes"
+full_slug: designation-full-stack-design-bootcamp
+guarantee: "No"
+hiring_partners: []
+hours_per_week: 70
+ideal_for: null
+job_placement_rate: 93
+number_of_graduates: 0
+placement: 94% of graduates eventually land a job - time to hire unknown
+program_slug: full-stack-design-bootcamp
+promises_job: null
+scholarships: "No"
+status: public
+student_teacher_ratio: 0
+syllabus: null
+topics:
+- design
+- html
+- css
+- javascript
+- ux
+- ui
+- prototyping
+tuition: 11800
+tuition_units: USD
+reports_outcome: "No"

@@ -1,0 +1,46 @@
+acceptance_rate: null
+admissions: Application, coding challenge, interview
+cities:
+- austin
+- new-york
+- chicago
+- seattle
+- san-francisco
+- san-diego
+class_size: '55'
+commitment: full-time
+cost_description: $13,950 in NYC & SF and $12,700 everywhere else
+display_name: Primary
+duration: 10
+duration_units: weeks
+financing: "No"
+full_slug: dev-bootcamp-primary
+guarantee: "No"
+hiring_partners:
+- soldsie
+- ouya
+- tapjoy
+- hipmunk
+- metalab
+- eight-bit-studios
+hours_per_week: 0
+ideal_for: beginner
+job_placement_rate: 0
+number_of_graduates: 0
+placement: Undisclosed
+program_slug: primary
+promises_job: false
+scholarships: For women, minorities, and veterans
+status: public
+student_teacher_ratio: 0
+syllabus: ''
+topics:
+- ruby-on-rails
+- javascript
+- jquery
+- git
+- html
+- css
+tuition: 13950
+tuition_units: USD $
+reports_outcome: "No"
