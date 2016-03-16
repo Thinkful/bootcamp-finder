@@ -1,4 +1,3 @@
-acceptance_rate: null
 admissions: Application
 cities:
 - london
@@ -16,33 +15,18 @@ cities:
 - denver
 - melbourne
 - singapore
-class_size: '23'
 commitment: full-time
 cost_description: $13,500
 display_name: Web Development Immersive
 duration: 12
 duration_units: weeks
-financing: "Yes"
-full_slug: general-assembly-web-development-immersive
-guarantee: "No"
-hiring_partners:
-- how-about-we
-- listen-first-media
-- octopart
-- squishable
-- commonbond
-- 2u
-hours_per_week: 0
-ideal_for: beginner
-job_placement_rate: 0
-number_of_graduates: 0
+financing: 'Yes'
+guarantee: 'No'
 placement: Undisclosed
 program_slug: web-development-immersive
 promises_job: false
+reports_outcome: 'No'
 scholarships: For low-income students
-status: public
-student_teacher_ratio: 0
-syllabus: null
 topics:
 - ruby-on-rails
 - javascript
@@ -51,4 +35,3 @@ topics:
 - sql
 tuition: 13500
 tuition_units: USD $
-reports_outcome: "No"

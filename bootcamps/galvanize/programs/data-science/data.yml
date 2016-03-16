@@ -1,31 +1,21 @@
-acceptance_rate: null
 admissions: Application
 cities:
 - denver
 - austin
 - seattle
 - san-francisco
-class_size: null
 commitment: full-time
 cost_description: $16,000
 display_name: Data Science
 duration: 12
 duration_units: weeks
-financing: "Yes"
-full_slug: galvanize-data-science
-guarantee: "No"
-hiring_partners: []
-hours_per_week: 0
-ideal_for: null
-job_placement_rate: 0
-number_of_graduates: 0
+financing: 'Yes'
+guarantee: 'No'
 placement: 94% of graduates eventually land a job - time to hire unknown
 program_slug: data-science
 promises_job: null
+reports_outcome: 'No'
 scholarships: For women, minorities, and veterans
-status: public
-student_teacher_ratio: 0
-syllabus: null
 topics:
 - data-science
 - python
@@ -34,4 +24,3 @@ topics:
 - machine-learning
 tuition: 16000
 tuition_units: USD
-reports_outcome: "No"

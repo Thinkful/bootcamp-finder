@@ -1,4 +1,3 @@
-acceptance_rate: null
 admissions: Application
 cities:
 - atlanta
@@ -13,27 +12,18 @@ cities:
 - seattle
 - sydney
 - washington-dc
-class_size: '23'
 commitment: part-time
 cost_description: $11,500
 display_name: User Experience Design Immersive
 duration: 10
 duration_units: weeks
-financing: "Yes"
-full_slug: general-assembly-user-experience-design-immersive
-guarantee: "No"
-hiring_partners: []
-hours_per_week: 0
-ideal_for: beginner
-job_placement_rate: 0
-number_of_graduates: 0
+financing: 'Yes'
+guarantee: 'No'
 placement: Undisclosed.
 program_slug: user-experience-design-immersive
 promises_job: false
+reports_outcome: 'No'
 scholarships: Yes - Need-based
-status: deleted
-student_teacher_ratio: 0
-syllabus: null
 topics:
 - ui
 - ux
@@ -41,4 +31,3 @@ topics:
 - testing
 tuition: 11500
 tuition_units: ''
-reports_outcome: "No"

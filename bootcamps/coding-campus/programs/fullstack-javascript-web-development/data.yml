@@ -1,28 +1,18 @@
-acceptance_rate: null
 admissions: Application
 cities:
 - provo
-class_size: '7'
 commitment: full-time
 cost_description: $14,300
 display_name: Fullstack JavaScript Web Development
 duration: 12
 duration_units: weeks
-financing: "Yes"
-full_slug: coding-campus-fullstack-javascript-web-development
-guarantee: "No"
-hiring_partners: []
-hours_per_week: 0
-ideal_for: beginner
-job_placement_rate: 90
-number_of_graduates: 0
+financing: 'Yes'
+guarantee: 'No'
 placement: Undisclosed
 program_slug: fullstack-javascript-web-development
 promises_job: false
+reports_outcome: 'No'
 scholarships: For women, minorities, and veterans
-status: public
-student_teacher_ratio: 0
-syllabus: ''
 topics:
 - python
 - django
@@ -33,4 +23,3 @@ topics:
 - css
 tuition: 14300
 tuition_units: USD
-reports_outcome: "No"

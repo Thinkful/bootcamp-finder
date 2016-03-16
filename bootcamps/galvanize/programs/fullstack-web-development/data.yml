@@ -1,4 +1,3 @@
-acceptance_rate: null
 admissions: Application, coding challenge, interviews
 cities:
 - denver
@@ -7,33 +6,18 @@ cities:
 - seattle
 - san-francisco
 - fort-collins
-class_size: '24'
 commitment: full-time
 cost_description: $21,000
 display_name: Fullstack Web Development
 duration: 24
 duration_units: weeks
-financing: "Yes"
-full_slug: galvanize-fullstack-web-development
-guarantee: "No"
-hiring_partners:
-- turbovote
-- pivotal-labs
-- itriage
-- quickleft
-- thoughtworks
-- cardflight
-hours_per_week: 0
-ideal_for: beginner
-job_placement_rate: 0
-number_of_graduates: 0
+financing: 'Yes'
+guarantee: 'No'
 placement: 97% of graduates eventually land a job - time to hire unknown
 program_slug: fullstack-web-development
 promises_job: false
+reports_outcome: 'No'
 scholarships: For women, minorities, veterans
-status: public
-student_teacher_ratio: 0
-syllabus: null
 topics:
 - javascript
 - node-js
@@ -43,4 +27,3 @@ topics:
 - sql
 tuition: 21000
 tuition_units: USD
-reports_outcome: "No"

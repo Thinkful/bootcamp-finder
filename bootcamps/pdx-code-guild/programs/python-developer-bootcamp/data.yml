@@ -1,28 +1,18 @@
-acceptance_rate: null
 admissions: Application
 cities:
 - portland
-class_size: N/A
 commitment: full-time
 cost_description: $8,000
 display_name: Python Developer Bootcamp
 duration: 12
 duration_units: weeks
-financing: "Yes"
-full_slug: pdx-code-guild-python-developer-bootcamp
-guarantee: "No"
-hiring_partners: []
-hours_per_week: 0
-ideal_for: beginner
-job_placement_rate: 0
-number_of_graduates: 0
+financing: 'Yes'
+guarantee: 'No'
 placement: Undisclosed
 program_slug: python-developer-bootcamp
 promises_job: false
+reports_outcome: 'No'
 scholarships: For women and minorities
-status: public
-student_teacher_ratio: 0
-syllabus: null
 topics:
 - javascript
 - python
@@ -31,4 +21,3 @@ topics:
 - css
 tuition: 8000
 tuition_units: USD $
-reports_outcome: "No"

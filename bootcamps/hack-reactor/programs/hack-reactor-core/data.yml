@@ -1,35 +1,19 @@
-acceptance_rate: null
 admissions: Application, coding tests, interviews
 cities:
 - san-francisco
 - remote
-class_size: '32'
 commitment: full-time
 cost_description: $17,780
 display_name: Hack Reactor Core
 duration: 12
 duration_units: weeks
-financing: "Yes"
-full_slug: hack-reactor-hack-reactor-core
-guarantee: "No"
-hiring_partners:
-- docusign
-- jpmorgan-chase
-- famous
-- opentable
-- changeorg
-- neustar
-hours_per_week: 0
-ideal_for: beginner
-job_placement_rate: 0
-number_of_graduates: 0
+financing: 'Yes'
+guarantee: 'No'
 placement: 99% of graduates land a job within 3 months of graduation
 program_slug: hack-reactor-core
 promises_job: false
+reports_outcome: 'No'
 scholarships: For veterans
-status: public
-student_teacher_ratio: 0
-syllabus: null
 topics:
 - javascript
 - html
@@ -39,4 +23,3 @@ topics:
 - algorithms
 tuition: 17780
 tuition_units: USD $
-reports_outcome: "No"

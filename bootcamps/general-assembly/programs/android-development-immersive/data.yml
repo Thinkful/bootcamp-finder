@@ -1,4 +1,3 @@
-acceptance_rate: null
 admissions: Application
 cities:
 - atlanta
@@ -12,27 +11,18 @@ cities:
 - seattle
 - sydney
 - washington-dc
-class_size: '23'
 commitment: full-time
 cost_description: $13,500
 display_name: Android Development Immersive
 duration: 12
 duration_units: weeks
-financing: "Yes"
-full_slug: general-assembly-android-development-immersive
-guarantee: "No"
-hiring_partners: []
-hours_per_week: 0
-ideal_for: beginner
-job_placement_rate: 0
-number_of_graduates: 0
+financing: 'Yes'
+guarantee: 'No'
 placement: Undisclosed
 program_slug: android-development-immersive
 promises_job: false
-scholarships: "No"
-status: deleted
-student_teacher_ratio: 0
-syllabus: null
+reports_outcome: 'No'
+scholarships: 'No'
 topics:
 - java
 - android
@@ -41,4 +31,3 @@ topics:
 - ux
 tuition: 13500
 tuition_units: ''
-reports_outcome: "No"

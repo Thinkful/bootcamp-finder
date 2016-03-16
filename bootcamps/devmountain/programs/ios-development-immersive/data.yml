@@ -1,28 +1,18 @@
-acceptance_rate: null
 admissions: Application, interview
 cities:
 - salt-lake-city
-class_size: null
 commitment: null
 cost_description: $10,500
 display_name: iOS Development Immersive
 duration: 12
 duration_units: weeks
-financing: "Yes"
-full_slug: devmountain-ios-development-immersive
-guarantee: "No"
-hiring_partners: []
-hours_per_week: 0
-ideal_for: null
-job_placement_rate: 0
-number_of_graduates: 0
+financing: 'Yes'
+guarantee: 'No'
 placement: Undisclosed
 program_slug: ios-development-immersive
 promises_job: null
-scholarships: "No"
-status: public
-student_teacher_ratio: 0
-syllabus: null
+reports_outcome: 'No'
+scholarships: 'No'
 topics:
 - ux
 - ui
@@ -30,4 +20,3 @@ topics:
 - xcode
 tuition: 10500
 tuition_units: USD
-reports_outcome: "No"

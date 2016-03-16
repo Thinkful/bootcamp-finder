@@ -1,28 +1,18 @@
-acceptance_rate: 0.29
 admissions: Application
 cities:
 - san-antonio
-class_size: '28'
 commitment: full-time
 cost_description: $16,000
 display_name: Full-stack Bootcamp
 duration: 16
 duration_units: weeks
-financing: "Yes"
-full_slug: codeup-full-stack-bootcamp
-guarantee: "No"
-hiring_partners: []
-hours_per_week: null
-ideal_for: beginner
-job_placement_rate: null
-number_of_graduates: null
+financing: 'Yes'
+guarantee: 'No'
 placement: 97% of graduates land a job within 3 months of graduation
 program_slug: full-stack-bootcamp
 promises_job: true
+reports_outcome: 'No'
 scholarships: For women
-status: public
-student_teacher_ratio: 5
-syllabus: ''
 topics:
 - javascript
 - php
@@ -31,4 +21,3 @@ topics:
 - html
 tuition: 16000
 tuition_units: USD
-reports_outcome: "No"

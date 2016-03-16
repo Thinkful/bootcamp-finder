@@ -1,29 +1,19 @@
-acceptance_rate: null
 admissions: Application, interview, 4 weeks of prep work
 cities:
 - vancouver
 - toronto
-class_size: '20'
 commitment: full-time
 cost_description: $8,000 CAD
 display_name: iOS Bootcamp
 duration: 8
 duration_units: weeks
-financing: "Yes"
-full_slug: lighthouse-labs-ios-bootcamp
-guarantee: "No"
-hiring_partners: []
-hours_per_week: 70
-ideal_for: beginner
-job_placement_rate: 100
-number_of_graduates: 0
+financing: 'Yes'
+guarantee: 'No'
 placement: Undisclosed
 program_slug: ios-bootcamp
 promises_job: false
-scholarships: "No"
-status: public
-student_teacher_ratio: 5
-syllabus: ''
+reports_outcome: 'No'
+scholarships: 'No'
 topics:
 - cocoa
 - objective-c
@@ -31,4 +21,3 @@ topics:
 - ios
 tuition: 8000
 tuition_units: CAD
-reports_outcome: "No"

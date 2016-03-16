@@ -1,34 +1,18 @@
-acceptance_rate: 0.3
 admissions: Application, interview, prep work
 cities:
 - boston
-class_size: '35'
 commitment: full-time
 cost_description: $15,500
 display_name: Primary
 duration: 10
 duration_units: weeks
-financing: "Yes"
-full_slug: launch-academy-primary
-guarantee: "No"
-hiring_partners:
-- livingsocial
-- kayak
-- hubspot
-- workbar
-- firecracker
-- abine
-hours_per_week: 40
-ideal_for: beginner
-job_placement_rate: 0
-number_of_graduates: 0
+financing: 'Yes'
+guarantee: 'No'
 placement: Undisclosed
 program_slug: primary
 promises_job: false
+reports_outcome: 'No'
 scholarships: For minorities
-status: public
-student_teacher_ratio: 0
-syllabus: ''
 topics:
 - javascript
 - ruby-on-rails
@@ -37,4 +21,3 @@ topics:
 - git
 tuition: 15500
 tuition_units: USD $
-reports_outcome: "No"

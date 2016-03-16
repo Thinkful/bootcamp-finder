@@ -1,28 +1,18 @@
-acceptance_rate: null
 admissions: Application, interview
 cities:
 - durham
-class_size: null
 commitment: null
-cost_description: $12,000 or £8,000
+cost_description: "$12,000 or \xA38,000"
 display_name: Data Science
 duration: 12
 duration_units: weeks
-financing: "Yes"
-full_slug: iron-yard-data-science
-guarantee: "No"
-hiring_partners: []
-hours_per_week: 0
-ideal_for: null
-job_placement_rate: 0
-number_of_graduates: 0
+financing: 'Yes'
+guarantee: 'No'
 placement: Undisclosed
 program_slug: data-science
 promises_job: null
+reports_outcome: 'No'
 scholarships: For women and veterans
-status: null
-student_teacher_ratio: 0
-syllabus: null
 topics:
 - python
 - html
@@ -32,4 +22,3 @@ topics:
 - data-science
 tuition: null
 tuition_units: null
-reports_outcome: "No"

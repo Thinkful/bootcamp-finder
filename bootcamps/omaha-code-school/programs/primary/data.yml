@@ -1,33 +1,18 @@
-acceptance_rate: 0.2
 admissions: Application, exercises, interview
 cities:
 - omaha
-class_size: '16'
 commitment: full-time
 cost_description: $7,500
 display_name: Primary
 duration: 12
 duration_units: weeks
-financing: "Yes"
-full_slug: omaha-code-school-primary
-guarantee: "No"
-hiring_partners:
-- swanson-russell
-- lemonly
-- lyconic
-- flywheel
-- big-wheel-brigade
-hours_per_week: 0
-ideal_for: beginner
-job_placement_rate: 0
-number_of_graduates: 0
+financing: 'Yes'
+guarantee: 'No'
 placement: Undisclosed
 program_slug: primary
 promises_job: false
-scholarships: "Yes"
-status: public
-student_teacher_ratio: 0
-syllabus: null
+reports_outcome: 'No'
+scholarships: 'Yes'
 topics:
 - wordpress
 - ruby-on-rails
@@ -39,4 +24,3 @@ topics:
 - testing
 tuition: 7500
 tuition_units: USD
-reports_outcome: "No"

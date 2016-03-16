@@ -1,30 +1,20 @@
-acceptance_rate: null
 admissions: Application, interviews
 cities:
 - new-york
 - chicago
 - boston
-class_size: null
 commitment: full-time
 cost_description: $7,100
 display_name: Web Design
 duration: 8
 duration_units: weeks
-financing: "Yes"
-full_slug: startup-institute-web-design
-guarantee: "No"
-hiring_partners: []
-hours_per_week: 0
-ideal_for: null
-job_placement_rate: 0
-number_of_graduates: 0
+financing: 'Yes'
+guarantee: 'No'
 placement: Undisclosed
 program_slug: web-design
 promises_job: null
-scholarships: "No"
-status: public
-student_teacher_ratio: 0
-syllabus: null
+reports_outcome: 'No'
+scholarships: 'No'
 topics:
 - ux
 - html
@@ -34,4 +24,3 @@ topics:
 - javascript
 tuition: 7100
 tuition_units: USD
-reports_outcome: "No"

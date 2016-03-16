@@ -1,4 +1,3 @@
-acceptance_rate: null
 admissions: Application, interview
 cities:
 - atlanta
@@ -9,27 +8,18 @@ cities:
 - jacksonville
 - new-orleans
 - phoenix
-class_size: '15'
 commitment: full-time
 cost_description: $6,750
 display_name: Code Immersion
 duration: 8
 duration_units: weeks
-financing: "Yes"
-full_slug: tech-talent-south-code-immersion
-guarantee: "No"
-hiring_partners: []
-hours_per_week: 18
-ideal_for: null
-job_placement_rate: 0
-number_of_graduates: 0
+financing: 'Yes'
+guarantee: 'No'
 placement: Undisclosed
 program_slug: code-immersion
 promises_job: null
-scholarships: "No"
-status: public
-student_teacher_ratio: 0
-syllabus: null
+reports_outcome: 'No'
+scholarships: 'No'
 topics:
 - ruby-on-rails
 - html
@@ -37,4 +27,3 @@ topics:
 - javascript
 tuition: 6750
 tuition_units: USD
-reports_outcome: "No"

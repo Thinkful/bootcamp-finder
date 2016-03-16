@@ -1,4 +1,3 @@
-acceptance_rate: null
 admissions: Application, interview
 cities:
 - atlanta
@@ -15,31 +14,21 @@ cities:
 - nashville
 - salt-lake-city
 - washington-dc
-class_size: null
 commitment: null
-cost_description: $12,000 or £8,000
+cost_description: "$12,000 or \xA38,000"
 display_name: Java and Clojure
 duration: 12
 duration_units: weeks
-financing: "Yes"
-full_slug: iron-yard-java-and-clojure
-guarantee: "No"
-hiring_partners: []
-hours_per_week: 0
-ideal_for: null
-job_placement_rate: 0
-number_of_graduates: 0
+financing: 'Yes'
+guarantee: 'No'
 placement: Undisclosed
 program_slug: java-and-clojure
 promises_job: null
+reports_outcome: 'No'
 scholarships: For women and veterans
-status: null
-student_teacher_ratio: 0
-syllabus: null
 topics:
 - java
 - clojure
 - postgresql
 tuition: null
 tuition_units: null
-reports_outcome: "No"

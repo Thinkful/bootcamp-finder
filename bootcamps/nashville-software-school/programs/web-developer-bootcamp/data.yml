@@ -1,34 +1,18 @@
-acceptance_rate: null
 admissions: Application
 cities:
 - nashville
-class_size: '25'
 commitment: full-time
 cost_description: $10,500
 display_name: Web Developer Bootcamp
 duration: 24
 duration_units: weeks
-financing: "Yes"
-full_slug: nashville-software-school-web-developer-bootcamp
-guarantee: "No"
-hiring_partners:
-- zeumo
-- checkdin
-- liveschool
-- eliza-brock-software
-- iostudio
-- centresource
-hours_per_week: 0
-ideal_for: beginner
-job_placement_rate: 0
-number_of_graduates: 0
+financing: 'Yes'
+guarantee: 'No'
 placement: 90% of graduates land a job within 90 days of graduation
 program_slug: web-developer-bootcamp
 promises_job: false
-scholarships: "No"
-status: public
-student_teacher_ratio: 0
-syllabus: null
+reports_outcome: 'No'
+scholarships: 'No'
 topics:
 - javascript
 - node-js
@@ -40,4 +24,3 @@ topics:
 - css
 tuition: 10500
 tuition_units: USD $
-reports_outcome: "No"

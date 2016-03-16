@@ -1,28 +1,18 @@
-acceptance_rate: null
 admissions: Application, coding challenge, interviews
 cities:
 - new-york
-class_size: '15'
 commitment: full-time
 cost_description: $16,810
 display_name: Fullstack Academy of Code
 duration: 13
 duration_units: weeks
-financing: "Yes"
-full_slug: fullstack-academy-fullstack-academy-of-code
-guarantee: "No"
-hiring_partners: []
-hours_per_week: 0
-ideal_for: beginner
-job_placement_rate: 0
-number_of_graduates: 0
+financing: 'Yes'
+guarantee: 'No'
 placement: 97% of graduates eventually land a job - time to hire unknown
 program_slug: fullstack-academy-of-code
 promises_job: false
+reports_outcome: 'No'
 scholarships: For women
-status: public
-student_teacher_ratio: 0
-syllabus: null
 topics:
 - javascript
 - angular-js
@@ -34,4 +24,3 @@ topics:
 - git
 tuition: 16810
 tuition_units: USD $
-reports_outcome: "No"

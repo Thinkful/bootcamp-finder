@@ -1,28 +1,18 @@
-acceptance_rate: null
 admissions: Application
 cities:
 - toronto
-class_size: '25'
 commitment: full-time
 cost_description: $7,250
 display_name: Front-End Web Development Immersive
 duration: 9
 duration_units: weeks
-financing: "No"
-full_slug: hackeryou-front-end-web-development-immersive
-guarantee: "No"
-hiring_partners: []
-hours_per_week: 40
-ideal_for: beginner
-job_placement_rate: 0
-number_of_graduates: 0
+financing: 'No'
+guarantee: 'No'
 placement: Undisclosed
 program_slug: front-end-web-development-immersive
 promises_job: false
-scholarships: "No"
-status: public
-student_teacher_ratio: 8
-syllabus: http://hackeryou.com/web-development-immersive-syllabus/
+reports_outcome: 'No'
+scholarships: 'No'
 topics:
 - javascript
 - jquery
@@ -33,4 +23,3 @@ topics:
 - git
 tuition: 7250
 tuition_units: CAD $
-reports_outcome: "No"

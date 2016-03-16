@@ -1,36 +1,20 @@
-acceptance_rate: null
 admissions: Application, coding test, interview, 3-4 weeks of prep work
 cities:
 - austin
 - san-francisco
 - los-angeles
-class_size: '15'
 commitment: full-time
 cost_description: $16,920
 display_name: Primary
 duration: 12
 duration_units: weeks
-financing: "Yes"
-full_slug: makersquare-primary
-guarantee: "No"
-hiring_partners:
-- springbox
-- capital-factory
-- mass-relevance
-- paypal
-- ibm
-- return-path
-hours_per_week: 65
-ideal_for: beginner
-job_placement_rate: 0
-number_of_graduates: 0
+financing: 'Yes'
+guarantee: 'No'
 placement: 96% of graduates land a job within 3 months of graduation
 program_slug: primary
 promises_job: false
-scholarships: "No"
-status: public
-student_teacher_ratio: 6
-syllabus: ''
+reports_outcome: 'No'
+scholarships: 'No'
 topics:
 - javascript
 - node-js
@@ -42,4 +26,3 @@ topics:
 - css
 tuition: 16920
 tuition_units: USD $
-reports_outcome: "No"

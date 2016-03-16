@@ -1,28 +1,18 @@
-acceptance_rate: null
 admissions: Application, interview, 4 weeks of prep work
 cities:
 - new-york
-class_size: null
 commitment: full-time
 cost_description: null
 display_name: Byte Academy Bootcamp
 duration: 12
 duration_units: weeks
-financing: "No"
-full_slug: byte-academy-byte-academy-bootcamp
-guarantee: "No"
-hiring_partners: []
-hours_per_week: 50
-ideal_for: null
-job_placement_rate: 0
-number_of_graduates: 0
+financing: 'No'
+guarantee: 'No'
 placement: Undisclosed
 program_slug: byte-academy-bootcamp
 promises_job: null
-scholarships: "No"
-status: public
-student_teacher_ratio: 0
-syllabus: null
+reports_outcome: 'No'
+scholarships: 'No'
 topics:
 - python
 - sql
@@ -32,4 +22,3 @@ topics:
 - css
 tuition: 10000
 tuition_units: USD
-reports_outcome: "No"

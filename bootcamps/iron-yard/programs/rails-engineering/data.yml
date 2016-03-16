@@ -1,4 +1,3 @@
-acceptance_rate: null
 admissions: Application, interview
 cities:
 - atlanta
@@ -15,27 +14,18 @@ cities:
 - nashville
 - salt-lake-city
 - washington-dc
-class_size: '15'
 commitment: full-time
-cost_description: $12,000 or £8,000
+cost_description: "$12,000 or \xA38,000"
 display_name: Rails Engineering
 duration: 12
 duration_units: weeks
-financing: "Yes"
-full_slug: iron-yard-rails-engineering
-guarantee: "No"
-hiring_partners: []
-hours_per_week: 60
-ideal_for: beginner
-job_placement_rate: null
-number_of_graduates: null
+financing: 'Yes'
+guarantee: 'No'
 placement: Undisclosed
 program_slug: rails-engineering
 promises_job: true
+reports_outcome: 'No'
 scholarships: For women and veterans
-status: public
-student_teacher_ratio: null
-syllabus: ''
 topics:
 - javascript
 - html
@@ -44,4 +34,3 @@ topics:
 - sql
 tuition: 12000
 tuition_units: USD
-reports_outcome: "No"
