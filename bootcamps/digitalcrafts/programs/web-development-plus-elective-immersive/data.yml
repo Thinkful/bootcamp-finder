@@ -1,0 +1,35 @@
+admissions: Application, Interview, Code Challenge
+cities:
+- Atlanta
+commitment: full-time
+cost_description: $13,950
+display_name: 16 Week Immersive Bootcamp + Elective
+duration: 16
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: Undisclosed
+program_slug: web-dev-immersive-plus-elective
+promises_job: false
+scholarships: 'yes'
+topics:
+- javascript
+- html
+- jquery
+- css
+- angular-js
+- node-js
+- mongodb
+- express-js
+- git
+- php
+- mysql
+- wordpress
+- ux
+- ionic
+- ios
+- swift
+tuition: 13950
+tuition_units: USD
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"
