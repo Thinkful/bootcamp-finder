@@ -3,14 +3,14 @@ cities:
 - remote
 commitment: full-time
 cost_description: $1,500 per month
-display_name: Web Development Career Path
+display_name: Flexible Web Development Bootcamp
 duration: 6
 duration_units: months
 financing: 'Yes'
 guarantee: Yes - Thinkful guarantees you a job within 4 months of graduation or your
   money back
 placement: 93% of graduates land an engineering job within 4 months of graduation.
-program_slug: web-development-career-path
+program_slug: flexible-web-development
 promises_job: true
 scholarships: For women and veterans
 topics:
@@ -21,7 +21,7 @@ topics:
 - css
 - ui
 - ux
-tuition: 1400
+tuition: 1500
 tuition_units: USD
 reports_graduation_and_placement_rates: "Yes"
 outcomes_verified: "Yes"
