@@ -1,5 +1,5 @@
-Career Path combines an in-depth, project-based approach with three 1-on-1
-sessions every week. This program is built to land beginners their first
+The Flexible pace of our Web Development Bootcamp an in-depth, project-based approach with three 1-on-1
+sessions per week. This bootcamp is built to land beginners their first
 developer job without having to quit their existing one like all offline
 programs. In this fully online program you'll work side-by-side with a
 professional developer building interactive websites and apps. Your mentor
