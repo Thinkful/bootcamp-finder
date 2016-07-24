@@ -1,0 +1,30 @@
+admissions: Application, coding test, interview
+cities:
+- remote
+commitment: full-time
+cost_description: $14,000
+display_name: Data Science Bootcamp
+duration: 24
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement: Undisclosed
+program_slug: data-science-bootcamp
+promises_job: false
+scholarships: false
+topics:
+- algorithms
+- big-data
+- d3
+- data-science
+- git
+- machine-learning
+- mapreduce
+- python
+- statistics
+- sql
+tuition: 14000
+tuition_units: USD
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"
+reviews:
