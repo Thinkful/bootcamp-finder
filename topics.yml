@@ -1,3 +1,5 @@
+- display_name: Ajax
+  slug: ajax
 - display_name: Algorithms
   slug: algorithms
 - display_name: Android
@@ -34,14 +36,16 @@
   slug: html
 - display_name: iOS
   slug: ios
-- display_name: Swift
-  slug: swift
+- display_name: Jasmine
+  slug: jasmine
 - display_name: Java
   slug: java
 - display_name: JavaScript
   slug: javascript
 - display_name: jQuery
   slug: jquery
+- display_name: JSON
+  slug: json
 - display_name: LAMP
   slug: lamp
 - display_name: Laravel
@@ -64,6 +68,8 @@
   slug: net
 - display_name: Node
   slug: node-js
+- display_name: NoSQL
+  slug: nosql
 - display_name: NumPy
   slug: numpy
 - display_name: Objective-C
@@ -74,6 +80,8 @@
   slug: prototyping
 - display_name: PostgreSQL
   slug: postgresql
+- display_name: Pyramid
+  slug: pyramid
 - display_name: Python
   slug: python
 - display_name: R
@@ -90,6 +98,8 @@
   slug: rest
 - display_name: Ruby on Rails
   slug: ruby-on-rails
+- display_name: Sass
+  slug: sass
 - display_name: SDKs
   slug: sdks
 - display_name: Sinatra
@@ -98,6 +108,8 @@
   slug: sql
 - display_name: Statistics
   slug: statistics
+- display_name: Swift
+  slug: swift
 - display_name: TDD
   slug: tdd
 - display_name: Testing

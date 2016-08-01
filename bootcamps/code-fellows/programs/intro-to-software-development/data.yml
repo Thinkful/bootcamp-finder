@@ -1,0 +1,26 @@
+admissions: Open
+cities:
+- portland
+- seattle
+- new-york
+commitment: 12 hours
+cost_description: $99
+display_name: Code 101: Intro to Software Development & Careers in Tech
+duration: 1
+duration_units: day
+financing: 'No'
+guarantee: 'No'
+placement: 'No'
+program_slug: code-101
+promises_job: false
+scholarships: none
+topics:
+- html
+- css
+- git
+- atom
+tuition: 99
+tuition_units: USD $
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"
+reviews:

@@ -1,0 +1,31 @@
+admissions: Application, phone interview, code challenge
+cities:
+- portland
+- seattle
+commitment: full-time or part-time
+cost_description: $4500
+display_name: Code 301: Intermediate Software Development
+duration: 4 or 8
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement:
+program_slug: code-301
+promises_job: false
+scholarships: For women, U.S. veterans, and minorities
+topics:
+- html
+- css
+- javascript
+- apis
+- git
+- mvc
+- responsive design
+- algorithms
+- ajax
+- sql
+tuition: 4500
+tuition_units: USD $
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"
+reviews:

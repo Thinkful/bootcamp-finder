@@ -1,0 +1,26 @@
+admissions: Application, phone interview, code challenge,
+cities:
+- portland
+- seattle
+commitment: full-time or part-time
+cost_description: $3500
+display_name: Code 201: Foundations of Software Development
+duration: 4 or 8
+duration_units: weeks
+financing: 'Yes'
+guarantee: 'No'
+placement:
+program_slug: code-201
+promises_job: false
+scholarships: For women, U.S. veterans, and minorities
+topics:
+- html
+- css
+- javascript
+- git
+- algorithms
+tuition: 3500
+tuition_units: USD $
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"
+reviews:

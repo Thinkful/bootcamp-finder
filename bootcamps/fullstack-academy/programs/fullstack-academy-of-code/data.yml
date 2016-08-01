@@ -1,6 +1,7 @@
 admissions: Application, coding challenge, interviews
 cities:
 - new-york
+- remote
 commitment: full-time
 cost_description: $16,810
 display_name: Fullstack Academy of Code
