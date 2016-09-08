@@ -1,17 +1,17 @@
-admissions: Application, coding test, interview
+admissions: Application, technical assessment, interview
 cities:
 - remote
 commitment: full-time
-cost_description: $14,000
+cost_description: $12,000
 display_name: Data Science Bootcamp
 duration: 24
 duration_units: weeks
 financing: 'Yes'
 guarantee: 'No'
 placement: Undisclosed
-program_slug: data-science-bootcamp
+program_slug: k2-data-science-bootcamp
 promises_job: false
-scholarships: false
+scholarships: For women, veterans and under represented minorities
 topics:
 - algorithms
 - big-data
@@ -23,7 +23,7 @@ topics:
 - python
 - statistics
 - sql
-tuition: 14000
+tuition: 12000
 tuition_units: USD
 reports_graduation_and_placement_rates: "No"
 outcomes_verified: "No"
