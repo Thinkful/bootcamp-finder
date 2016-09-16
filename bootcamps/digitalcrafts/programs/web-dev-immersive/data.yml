@@ -1,6 +1,7 @@
 admissions: Application, Interview, Code Challenge
 cities:
-- Atlanta
+- atlanta
+- houston
 commitment: full-time
 cost_description: $12,950
 display_name: 16 Week Immersive Bootcamp
@@ -20,11 +21,11 @@ topics:
 - angular-js
 - node-js
 - mongodb
-- express-js
+- express
 - git
-- php
-- mysql
-- wordpress
+- python
+- sql
+- flask
 tuition: 12950
 tuition_units: USD
 reports_graduation_and_placement_rates: "No"
