@@ -1,11 +1,12 @@
-admissions: Application, interview, 3 weeks of prep work
+admissions: Application, interview, 5 weeks of prep work
 cities:
 - chicago
+- new-york-city
 - san-francisco
-commitment: full-time
+commitment: part-time
 cost_description: $12,500
-display_name: Primary
-duration: 12
+display_name: Bootcamp & Apprenticeship
+duration: 17
 duration_units: weeks
 financing: 'Yes'
 guarantee: 'No'

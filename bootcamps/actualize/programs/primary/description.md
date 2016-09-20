@@ -1,7 +1,1 @@
-Anyone Can Learn To Code, with campuses in Chicago and San Francisco, offers a
-12-week bootcamp followed by a six-week paid internship experience. The
-curriculum also includes three weeks of pre-bootcamp exercises in web
-development, which can be completed from any location in the world. Anyone Can
-Learn To Code students get to show off their projects at an official showcase,
-which includes opportunities to meet with prospective employers.
-
+After five weeks of at-home prework, students complete Actualize’s 12-week part-time in-class training program to learn full-stack web development. Then, each graduate has the opportunity to join digital consultancy The Difference Engine part-time for up to four months to hone the skills and gain the experience that employers are looking for now. Actualize’s schedule (Sundays 9a-5p and Mon-Thurs 6-9:30p) allows students to keep their full-time jobs throughout the course and apprenticeship.
