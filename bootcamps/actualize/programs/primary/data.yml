@@ -1,4 +1,4 @@
-admissions: Application, interview, 5 weeks of prep work
+admissions: Application, interview, five weeks of online prep work
 cities:
 - chicago
 - new-york-city
@@ -6,14 +6,14 @@ cities:
 commitment: part-time
 cost_description: $12,500
 display_name: Bootcamp & Apprenticeship
-duration: 17
+duration: 12
 duration_units: weeks
 financing: 'Yes'
 guarantee: 'No'
 placement: Undisclosed
 program_slug: primary
 promises_job: null
-scholarships: 'No'
+scholarships: Diversity in Tech Scholarship for women & ethnic minorities
 topics:
 - javascript
 - sql
