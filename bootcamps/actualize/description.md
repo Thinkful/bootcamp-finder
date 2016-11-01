@@ -1,0 +1,5 @@
+Actualize is a part-time web development bootcamp and apprenticeship with cohorts in Chicago, NYC, and San Francisco. The program provides four months of in-class training followed by guaranteed placement in digital consultancy The Difference Engine.
+
+The team at Actualize consider themselves educators before all else, and their commitment to educational best practices and pedagogy enables their students to become web developers while keeping their day jobs. After the Sundays-and-weeknights training program, graduates spend up to four months as part-time developers with The Difference Engine building projects for clients, gaining real-world experience and creating portfolios that will be impressive to prospective employers.
+
+Actualize trains graduates to develop the mindset and skills to transition to full-time software engineering, empowering them to launch rewarding lives and careers.
