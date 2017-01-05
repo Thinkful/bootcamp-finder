@@ -1,0 +1,29 @@
+admissions: Application, cultural screen, technical interview
+cities:
+- medellin
+commitment: full-time
+cost_description: Housing, transportation to and from the airport, and weekly excursions are all included in the tuition price
+display_name: Primary
+duration: 8
+duration_units: weeks
+financing: 'No'
+guarantee: 'No'
+placement: Undisclosed
+program_slug: primary
+promises_job: false
+scholarships: 'No'
+topics:
+- algorithms
+- ruby-on-rails
+- mvc
+- jquery
+- git
+- sql
+- css
+- html
+tuition: 8900
+tuition_units: USD $
+reports_graduation_and_placement_rates: "No"
+outcomes_verified: "No"
+reviews:
+- Doug and Andrew are both amazing teachers and they taught me everything I know about web development.
