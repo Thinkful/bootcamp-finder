@@ -10,10 +10,10 @@ programs:
   primary:
     admissions: Application
     cities:
-    - Denver
-    - Chicago
+    - denver
+    - chicago
     commitment: full-time
-    cost_description: Tuition for DeVry's Web Development Bootcamp is $9,750. There are no additional fees, books or supplies. Applicants are eligible to receive a $2,000 tuition savings on our cohorts starting on January 27 and Feburary 24, 2017.
+    cost_description: $9,750. 
     description: "Our web application development bootcamp is a selective, 10-week, hands-on, immersive course offered in Denver, CO and Chicago, IL. You’ll learn modern full-stack development from world-class instructors. You’ll create your own applications and build a portfolio of projects to share with employers. You’ll develop a peer and advisor network."
     display_name: Bootcamp
     duration: 10
