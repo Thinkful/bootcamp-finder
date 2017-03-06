@@ -1,0 +1,32 @@
+description: "The Code Campaign was started by two veteran coders, we wanted to create supportive and encouraging learning environments, so everyone could learn to code without pressure or exams. The Code Campaign is inclusive of all ages and skill levels."
+display_name: The Code Campaign
+founded_year: 2017
+primary_email: us@thecodecampaign.com
+programs:
+  primary:
+    admissions: Open to anyone
+    cities:
+    - melbourne
+    commitment: 1 day per week
+    cost_description: $599 AUD
+    description: !!python/unicode 'The Code Campaign creates welcoming and supportive learning environments. We all work together in a smaller group to learn about App development, and actually build an App as we learn!
+
+      '
+    display_name: Bootcamp
+    duration: 4
+    duration_units: week
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: false
+    topics:
+    - ios
+    - swift
+    - design
+    tuition: 599
+    tuition_units: AUD $
+tagline: Everyone can code.
+twitter: null
+website: http://thecodecampaign.com
