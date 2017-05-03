@@ -40,6 +40,13 @@
   description: Discover bootcamps that teach authentication
   meta_description: Discover bootcamps that teach authentication
 
+- display_name: Amazon Web Services
+  slug: amazon web services
+  meta_description: "Learn which bootcamps teach students how to leverage AWS to create and deploy applications that can scale."
+  description: "Amazon Web Services provides a highly reliable, scalable, low-cost infrastructure platform in the
+  cloud that powers hundreds of thousands of businesses in 190 countries around the world."
+  featured: true
+
 - display_name: Big Data
   slug: big-data
   meta_description: "Compare bootcamps that cover Big Data and start your career processing data today!"
