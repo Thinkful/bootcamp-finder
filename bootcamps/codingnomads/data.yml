@@ -23,7 +23,7 @@ programs:
     admissions: Application, phone interview
     cities:
     - ubud
-    - koh-tao
+    - kho-tao
     - mexico-city
     commitment: full-time
     cost_description: $7000 (varies slightly based on individual locations)
