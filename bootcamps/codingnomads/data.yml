@@ -22,16 +22,16 @@ programs:
   primary:
     admissions: Application, phone interview
     cities:
-    - ubud, bali
-    - koh tao, Thailand
-    - mexico city, mexico
+    - ubud
+    - koh-tao
+    - mexico-city
     commitment: full-time
     cost_description: $7000 (varies slightly based on individual locations)
     description: !!python/unicode "CodingNomads' 12-week bootcamp prepares students for the real-world duties of entry-level
     Java, SQL and AWS software engineers. The first 8 weeks cover the fundamentals of Java, SQL and AWS. We also dive into RESTful
     API development as well as Android development. In the final 4 weeks online, your cohort acts as a distributed software engineering team working
     on practical projects to be used for your portfolio. Whether you want to secure remote work as a digital nomad, or
-    find a job in your hometown, CodingNomads equips you with the skills to jump-start your career in software engineering."
+    find a job in your hometown, CodingNomads equips you with the skills to jump-start your career in server side software engineering."
     display_name: Java + SQL + AWS +  API Development
     duration: 12
     duration_units: weeks
