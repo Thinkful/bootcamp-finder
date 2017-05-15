@@ -155,6 +155,7 @@
 - display_name: Kho Tao
   slug: kho-tao
   meta_description: Ko Tao is a tropical dream. It is an island in Thailand and forms part of the Chumphon Archipelago on the western shore of the Gulf of Thailand.
+  description: Ever dreamed of living on a small, tropical island? Why not learn to code during the day, watch the sunset from the beach, and scuba dive and snorkel every weekend? 
   featured: true
   state: Thailand
 
@@ -372,7 +373,8 @@
 
 - display_name: Ubud
   slug: ubud
-  meta_description: The town of Ubud, in the uplands of Bali, Indonesia, is known as a center for traditional crafts and dance. The surrounding Ubud District’s rainforest and terraced rice paddies, dotted with Hindu temples and shrines, are among Bali’s most famous landscapes.
+  meta_description: The town of Ubud, in the uplands of Bali, Indonesia, is known as a center for traditional crafts and dance.
+  description: Ubud, Bali is a magical place. Here you are surrounded by unmatched beaty, incredible culture, friendly people and digital nomads from around the world.
   featured: true
   state: Bali
 
