@@ -22,9 +22,9 @@ programs:
   primary:
     admissions: Application, phone interview
     cities:
-    - Ubud, Bali
-    - Koh Tao, Thailand
-    - Mexico City, Mexico
+    - ubud, bali
+    - koh tao, Thailand
+    - mexico city, mexico
     commitment: full-time
     cost_description: $7000 (varies slightly based on individual locations)
     description: !!python/unicode "CodingNomads' 12-week bootcamp prepares students for the real-world duties of entry-level
@@ -42,18 +42,18 @@ programs:
     reports_outcomes: false
     scholarships: 'Yes'
     topics:
-    - Java
-    - SQL
-    - APIs
-    - Android
-    - Authentication
-    - Git
-    - JSON
-    - LAMP
-    - MVN
-    - MySQL
-    - REST
-    - SDKs
+    - java
+    - sql
+    - apis
+    - android
+    - authentication
+    - git
+    - json
+    - lamp
+    - mvn
+    - mysql
+    - rest
+    - sdks
     tuition: 7000
     tuition_units: USD $
 tagline: "Learn to code, travel the world."
