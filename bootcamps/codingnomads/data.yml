@@ -50,7 +50,7 @@ programs:
     - git
     - json
     - lamp
-    - mvn
+    - mvc
     - mysql
     - rest
     - sdks
