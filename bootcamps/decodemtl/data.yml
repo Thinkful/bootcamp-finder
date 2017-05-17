@@ -1,0 +1,69 @@
+description: !!python/unicode 'DecodeMTL offers both on-site and remote 8-week Full-Stack JavaScript bootcamps. Students
+wishing to become professional software developers will master the fundamentals of programming, and modern web development
+technologies. After 8 weeks, our career services will prepare you for the job search, and help you find your first job.'
+display_name: DecodeMTL
+founded_year: 2014
+meta_description: Read reviews of DecodeMTL's remote and in-person Web Development Bootcamp.
+primary_email: hello@decodemtl.com
+programs:
+  web-development-bootcamp:
+    admissions: Application, Interview, Prep-Course, Technical Interview
+    cities:
+    - montreal
+    commitment: full-time
+    cost_description: $7,495
+    description: !!python/unicode 'Learn Full-Stack Web Development with over 400 hours of intensive project based learning.'
+    display_name: Web Development Bootcamp
+    duration: 8
+    duration_units: weeks
+    financing: Student line of credit available to Canadian Residents
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: false
+    topics:
+    - css
+    - express
+    - git
+    - html
+    - javascript
+    - jquery
+    - json
+    - mysql
+    - node.js
+    - react
+    tuition: 7495
+    tuition_units: CAD
+  remote-web-development-bootcamp:
+    admissions: Application, Interview, Prep-Course, Technical Interview
+    cities:
+    - remote
+    commitment: full-time
+    cost_description: $2,995
+    description: 'Learn alongside our in-person bootcamp. 8 Weeks, full-time, hyper-intensive learning. Become a Web Developer from home.'
+    display_name: Remote Web Development Bootcamp
+    duration: 8
+    duration_units: weeks
+    financing: Student line of credit available to Canadian Residents
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: false
+    topics:
+    - css
+    - express
+    - git
+    - html
+    - javascript
+    - jquery
+    - json
+    - mysql
+    - node.js
+    - react
+    tuition: 2995
+    tuition_units: CAD
+tagline: Learn to code - Remote or In-Person.
+twitter: decodemtl
+website: https://www.decodemtl.com
