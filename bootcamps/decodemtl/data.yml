@@ -43,27 +43,27 @@ programs:
     cost_description: $2,995
     description: 'Learn alongside our in-person bootcamp. 8 Weeks, full-time, hyper-intensive learning. Become a Web Developer from home.'
     display_name: Remote Web Development Bootcamp
-        duration: 8
-        duration_units: weeks
-        financing: Student line of credit available to Canadian Residents
-        guarantee: 'No'
-        outcomes_verified: false
-        placement: Undisclosed
-        reports_outcomes: false
-        scholarships: false
-        topics:
-        - css
-        - express
-        - git
-        - html
-        - javascript
-        - jquery
-        - json
-        - mysql
-        - node.js
-        - react
-        tuition: 2995
-        tuition_units: CAD
+    duration: 8
+    duration_units: weeks
+    financing: Student line of credit available to Canadian Residents
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: false
+    topics:
+    - css
+    - express
+    - git
+    - html
+    - javascript
+    - jquery
+    - json
+    - mysql
+    - node.js
+    - react
+    tuition: 2995
+    tuition_units: CAD
 tagline: Learn to code - Remote or In-Person.
 twitter: decodemtl
 website: https://www.decodemtl.com
