@@ -75,7 +75,6 @@ programs:
     - data-science
     - machine-learning
     - algorithms
-    - pandas
     - numpy
     - matplotlib
     - regression
