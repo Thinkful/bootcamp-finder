@@ -1,9 +1,7 @@
 description: !!python/unicode 'DigitalCrafts is a full-stack coding bootcamp offering
   intensive software engineering training programs in Atlanta, Georgia. Their flagship
-  course is the 16 Week Immersive Bootcamp that covers two full stacks (MEAN and Python)
-  with an optional elective program in the evenings. DigitalCrafts is on a mission
-  to create a community of builders, each equipped with the skills and tools necessary
-  to breathe life into ideas, whether as entrepreneurs or professional software engineers.
+  course is the 16 Week Immersive Bootcamp that covers two full stacks (MEAN and Python).
+  DigitalCrafts is on a mission to create a community of builders, each equipped with the skills and tools necessary to breathe life into ideas, whether as entrepreneurs or professional software engineers.
 
 
   The 16 Week Immersive Bootcamp covers HTML5, CSS3, JavaScript, JQuery, JSON, Bootstrap,
@@ -26,7 +24,7 @@ description: !!python/unicode 'DigitalCrafts is a full-stack coding bootcamp off
   '
 display_name: DigitalCrafts
 founded_year: 2015
-meta-description: Reviews of DigitalCrafts coding bootcamp in Atlanta. Read about
+meta-description: Reviews of DigitalCrafts coding bootcamp in Atlanta and Houston. Read about
   job placement, curriculum, and scholarships to DigitalCrafts.
 primary_email: hello@digitalcrafts.com
 programs:
@@ -36,7 +34,7 @@ programs:
     - atlanta
     - houston
     commitment: full-time
-    cost_description: $12,950
+    cost_description: $13,950
     description: !!python/unicode 'Throughout the 16 Week Immersive Bootcamp students
       learn full-stack web development covering basic front-end, advanced front-end,
       JavaScript and the MEAN stack, and Python and PostgreSQL. Students who are accepted
@@ -55,9 +53,9 @@ programs:
     duration_units: weeks
     financing: true
     guarantee: 'No'
-    outcomes_verified: false
-    placement: Undisclosed
-    reports_outcomes: false
+    outcomes_verified: true
+    placement: 'yes'
+    reports_outcomes: true
     scholarships: 'yes'
     topics:
     - javascript
@@ -72,55 +70,6 @@ programs:
     - python
     - flask
     - postgresql
-    tuition: 12950
-    tuition_units: USD
-  web-dev-immersive-plus-elective:
-    admissions: Application, Interview, Code Challenge
-    cities:
-    - atlanta
-    commitment: full-time
-    cost_description: $13,950
-    description: !!python/unicode 'The 16 Week Immersive Bootcamp + Elective track
-      is for the bold. Throughout the 16 Week Immersive Bootcamp students train to
-      become software engineers by learning full-stack development and a specific
-      elective offered during that course. The course''s web development curriculum
-      covers basic front-end, advanced front-end, JavaScript and the MEAN stack, and
-      Python and PostgreSQL. During the evenings, students will complete a 5 to 6
-      week elective covering either UI/UX Design, Cross-Platform Mobile App Development,
-      or iOS App Development from an industry expert.
-
-
-      In addition to becoming a software engineer, each student will complete a series
-      of career training exercises, including, but not limited to resume guidance,
-      mock interview training, portfolio development, and gain access to DigitalCrafts
-      growing network of hiring partners.
-
-      '
-    display_name: 16 Week Immersive Bootcamp + Elective
-    duration: 16
-    duration_units: weeks
-    financing: true
-    guarantee: 'No'
-    outcomes_verified: false
-    placement: Undisclosed
-    reports_outcomes: false
-    scholarships: 'yes'
-    topics:
-    - javascript
-    - html
-    - jquery
-    - css
-    - angular-js
-    - node-js
-    - mongodb
-    - express
-    - git
-    - python
-    - postgresql
-    - ux
-    - ionic
-    - ios
-    - swift
     tuition: 13950
     tuition_units: USD
 tagline: Become a Builder of Things
