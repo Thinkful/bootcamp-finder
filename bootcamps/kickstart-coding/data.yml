@@ -5,17 +5,17 @@ description: !!python/unicode '
 
   in an inclusive and collaborative environment. A core value this bootcamp was built upon
 
-  is that a programming education should be accessible to everyone who truly 
+  is that a programming education should be accessible to everyone who truly
 
-  wants to learn to code. Kickstart Coding is proud to offer affordable intensive 
+  wants to learn to code. Kickstart Coding is proud to offer affordable intensive
 
-  instruction, a part-time schedule, and a free laptop to every student. 
+  instruction, a part-time schedule, and a free laptop to every student.
 
-  The full-stack curriculum consists of 2 sequential part-time courses that cover backend 
+  The full-stack curriculum consists of 2 sequential part-time courses that cover backend
 
-  and frontend fundamentals. Homework is assigned every week, and each course finishes 
+  and frontend fundamentals. Homework is assigned every week, and each course finishes
 
-  with a group project. Applications are accepted on a rolling basis. 
+  with a group project. Applications are accepted on a rolling basis.
 
   Please see the website for more information.
   '
@@ -43,16 +43,16 @@ programs:
     reports_outcomes: false
     scholarships: false
     topics:
-    - Git
-    - Bash
-    - HTML
-    - CSS
-    - Templating
-    - Python
-    - Django
-    - PostgreSQL
-    - JavaScript
-    - React
+    - git
+    - bash
+    - html
+    - css
+    - templating
+    - python
+    - django
+    - postgresql
+    - javascript
+    - react
     tuition: 5000
     tuition_units: USD $
 tagline: Learn coding in 4 months
