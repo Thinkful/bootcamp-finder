@@ -1,0 +1,60 @@
+description: !!python/unicode '
+  Kickstart your coding career with part-time Python & React classes!
+
+  Kickstart Coding is looking for serious students who are passionate about learning
+
+  in an inclusive and collaborative environment. A core value this bootcamp was built upon
+
+  is that a programming education should be accessible to everyone who truly 
+
+  wants to learn to code. Kickstart Coding is proud to offer affordable intensive 
+
+  instruction, a part-time schedule, and a free laptop to every student. 
+
+  The full-stack curriculum consists of 2 sequential part-time courses that cover backend 
+
+  and frontend fundamentals. Homework is assigned every week, and each course finishes 
+
+  with a group project. Applications are accepted on a rolling basis. 
+
+  Please see the website for more information.
+  '
+display_name: Kickstart Coding
+founded_year: 2018
+meta-description: Read reviews of Kickstart Coding.
+primary_email: info@kickstartcoding.com
+programs:
+  primary:
+    admissions: Application, behavioral interview, technical interview
+    cities:
+    - oakland
+    commitment: part-time
+    cost_description: $4,000 (total for both courses)
+    description: "This two-course program will cover cutting-edge technologies you
+    need to become a web developer. Taught by passionate and experienced teaching staff,
+    "
+    display_name: Bootcamp
+    duration: 4
+    duration_units: months
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: false
+    topics:
+    - Git
+    - Bash
+    - HTML
+    - CSS
+    - Templating
+    - Python
+    - Django
+    - PostgreSQL
+    - JavaScript
+    - React
+    tuition: 5000
+    tuition_units: USD $
+tagline: Learn coding in 4 months
+twitter: kscoding
+website: http://www.kickstartcoding.com
