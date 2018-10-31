@@ -44,10 +44,8 @@ programs:
     scholarships: false
     topics:
     - git
-    - bash
     - html
     - css
-    - templating
     - python
     - django
     - postgresql
