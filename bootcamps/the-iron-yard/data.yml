@@ -1,134 +1,31 @@
-description: "The Iron Yard is one of the world\u2019s largest and fastest-growing\
-  \ code schools. It exists to create real, lasting change for people, companies and\
-  \ communities through technology education. It offers full-time and part-time programs\
-  \ in Back-End Engineering, Data Science, Design, Front-End Engineering and Mobile\
-  \ Engineering (see full course listing below). The Iron Yard has 20 campuses across\
-  \ the U.S.\n\nThe Iron Yard launched its first code school campus in Greenville,\
-  \ S.C. in 2013 with two employees and one course offering. In just over two years,\
-  \ the organization has grown into ten course offerings and more than 100 full-time\
-  \ employees.\n\nWe work with employers of all sizes in each market where a campus\
-  \ is located. Our comprehensive career support program helps match trained graduates\
-  \ with those employers. We often build our programs and courses for specific locations\
-  \ around employer needs in that specific area.\n\nClaim one of several scholarships\
-  \ to The Iron Yard by applying through the links below:\n<ul>\n  <li><a rel=\"nofollow\"\
-  \ target=\"_blank\" href=\"https://www.theironyard.com/courses/scholarships/diversity?utm_source=Bootcamp%20Finder&utm_medium=Scholarship&utm_campaign=Admissions&type=organic\"\
-  >Diversity Scholarship</a>, any campus, worth $1,000</li>\n\n  <li><a rel=\"nofollow\"\
-  \ target=\"_blank\" href=\"https://www.theironyard.com/courses/scholarships/community-forward/charlotte?utm_source=Bootcamp%20Finder&utm_medium=Scholarship&utm_campaign=Admissions&type=organic\"\
-  >Charlotte Community Forward Scholarship</a>, Charlotte, NC, full tuition</li>\n\
-  \n  <li><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.theironyard.com/courses/scholarships/community-forward/detroit?utm_source=Bootcamp%20Finder&utm_medium=Scholarship&utm_campaign=Admissions&type=organic\"\
-  >Detroit Community Forward Scholarship</a>, Detroit, MI, full tuition</li>\n\n \
-  \ <li><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.theironyard.com/courses/scholarships/community-forward/twin-cities?utm_source=Bootcamp%20Finder&utm_medium=Scholarship&utm_campaign=Admissions&type=organic\"\
-  >Twin Cities Community Forward Scholarship</a>, Minneapolis, MN, full tuition</li>\n\
-  \n  <li><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.theironyard.com/courses/scholarships/community-forward/san-antonio?utm_source=Bootcamp%20Finder&utm_medium=Scholarship&utm_campaign=Admissions&type=organic\"\
-  >San Antonio Community Forward Scholarship</a>, San Antonio, TX, full tuition</li>\n\
-  \n  <li><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.theironyard.com/courses/scholarships/community-forward/dc?utm_source=Bootcamp%20Finder&utm_medium=Scholarship&utm_campaign=Admissions&type=organic\"\
-  >DC Community Forward Scholarship</a>, Washington, DC, full tuition</li>\n</ul>\n"
+description: "The Iron Yard offers full-time and part-time web development courses in person, online and through corporate training programs across the U.S. Their team strives to create real, lasting change for people, companies and communities by equipping a diverse workforce with 21st century digital skills."
 display_name: The Iron Yard
 founded_year: 2011
-meta-description: Reviews for The Iron Yard in Atlanta, DC, Durham, Houston, Austin,
-  Charleston, and more. Learn about courses offered at The Iron Yard's coding bootcamp.
+meta-description: Reviews for The Iron Yard code school. Learn about courses offered at The Iron Yard's coding bootcamp.
 primary_email: hello@theironyard.com
 programs:
-  c-and-net:
-    admissions: Application, interview
+  web-development-career-path:
+    admissions: application, interview
     cities:
     - atlanta
     - austin
     - charleston
     - charlotte
-    - columbia
+    - dallas
     - durham
     - greenville
     - houston
     - indianapolis
     - las-vegas
-    - little-rock
     - nashville
-    - salt-lake-city
+    - orlando
+    - raleigh
+    - tampa
     - washington-dc
-    commitment: unknown
-    cost_description: $13,900
-    description: "The Iron Yard\u2019s back-end engineering with C# and .NET bootcamp\
-      \ empowers\nstudents to build websites and apps that function similar to Amazon,\
-      \ Facebook,\nand Twitter. The curriculum includes programming fundamentals such\
-      \ as data\nmodeling, as well as front-end tools. Mock interviews, resume writing,\
-      \ on-site\ntours with development teams, and guest speakers are also part of\
-      \ The Iron\nYard bootcamp experience.\n\n"
-    display_name: 'C and #NET'
-    duration: 12
-    duration_units: weeks
-    financing: true
-    guarantee: 'No'
-    outcomes_verified: false
-    placement: Undisclosed
-    reports_outcomes: false
-    scholarships: Diversity scholarship available
-    topics:
-    - c-sharp
-    - net
-    - rest
-    - testing
-    - sql
-    tuition: null
-    tuition_units: null
-  data-science:
-    admissions: Application, interview
-    cities:
-    - durham
-    commitment: unknown
-    cost_description: $13,900
-    description: "The Iron Yard\u2019s data science bootcamp focuses on back-end programming\
-      \ in the\nPython framework. The data science curriculum also covers skills in\
-      \ presenting\ndata and using Git and Github to manage personal and team workflows.\
-      \ The Iron\nYard offers plenty of career preparation services and field trips,\
-      \ geared both\ntoward potential freelancers and those students who wish to find\
-      \ a more\ntraditional job within one company.\n\n"
-    display_name: Data Science
-    duration: 12
-    duration_units: weeks
-    financing: true
-    guarantee: 'No'
-    outcomes_verified: false
-    placement: Undisclosed
-    reports_outcomes: false
-    scholarships: Diversity scholarship available
-    topics:
-    - python
-    - html
-    - javascript
-    - numpy
-    - matplotlib
-    - data-science
-    tuition: null
-    tuition_units: null
-  front-end-engineering:
-    admissions: Application, interview
-    cities:
-    - atlanta
-    - austin
-    - charleston
-    - charlotte
-    - columbia
-    - durham
-    - greenville
-    - houston
-    - indianapolis
-    - las-vegas
-    - little-rock
-    - minneapolis
-    - nashville
-    - salt-lake-city
-    - washington-dc
-    - london
     commitment: full-time
     cost_description: $13,900
-    description: "The Iron Yard\u2019s front-end engineering bootcamp is designed\
-      \ for people who want\nto learn how to build web apps with JavaScript, HTML,\
-      \ and CSS. The bootcamp\ncurriculum includes extensive career preparation services\
-      \ \u2013 including advice\nfrom seasoned freelance programmers. The Iron Yard\
-      \ offers a free online \u201Ccrash\ncourse\u201D for those contemplating whether\
-      \ they want to enlist in a bootcamp.\n\n"
-    display_name: Front-End Engineering
+    description: "Go from zero to job ready with The Iron Yard's Web Development Career Path. Learn the latest skills from industry professionals and connect with employers through our Career Support program. This course includes full-time, expert instructors and mentors; trusted, tested and licensed education; proven career support and employer relationships; and employer-tested curriculum including lecture and flipped classroom formats."
+    display_name: Web Development Career Path
     duration: 12
     duration_units: weeks
     financing: true
@@ -136,208 +33,109 @@ programs:
     outcomes_verified: false
     placement: Undisclosed
     reports_outcomes: false
-    scholarships: Diversity scholarship available
+    scholarships: Several scholarships available
     topics:
     - javascript
     - html
     - css
-    - mvc
-    - react
-    - node-js
-    tuition: 13900
-    tuition_units: USD
-  java-and-clojure:
-    admissions: Application, interview
-    cities:
-    - atlanta
-    - austin
-    - charleston
-    - charlotte
-    - columbia
-    - durham
-    - greenville
-    - houston
-    - indianapolis
-    - las-vegas
-    - little-rock
-    - nashville
-    - salt-lake-city
-    - washington-dc
-    commitment: unknown
-    cost_description: $13,900
-    description: "During The Iron Yard\u2019s back-end engineering with Java and Clojure\
-      \ bootcamp,\nstudents will learn the art and science of building great server-side\
-      \ apps.\nThe curriculum includes object-oriented programming, how to successfully\
-      \ store\ndata, functional programming, and managing personal and team workflow.\
-      \ The\nIron Yard\u2019s back-end engineering with Java and Clojure bootcamp\
-      \ includes field\ntrips, guest speakers, mock interviews, and one-on-one career\
-      \ coaching.\n\n"
-    display_name: Java and Clojure
-    duration: 12
-    duration_units: weeks
-    financing: true
-    guarantee: 'No'
-    outcomes_verified: false
-    placement: Undisclosed
-    reports_outcomes: false
-    scholarships: Diversity scholarship available
-    topics:
+    - ruby
     - java
-    - clojure
-    - postgresql
-    tuition: null
-    tuition_units: null
-  mobile-engineering:
-    admissions: Application, interview
-    cities:
-    - charlotte
-    - houston
-    - indianapolis
-    - nashville
-    - salt-lake-city
-    - washington-dc
-    - london
-    commitment: full-time
-    cost_description: $13,900
-    description: "The Iron Yard\u2019s mobile engineering bootcamp curriculum focuses\
-      \ on Objective-C,\nC, and Swift. Graduates will have the skills necessary to\
-      \ not only build apps\nfor mobile Apple devices, but also Mac OS X computers.\
-      \ Guest speakers, company\ntours, and extensive career services are all part\
-      \ of The Iron Yard\u2019s bootcamp\nexperience.\n\n"
-    display_name: Mobile Engineering
-    duration: 12
-    duration_units: weeks
-    financing: true
-    guarantee: 'No'
-    outcomes_verified: false
-    placement: Undisclosed
-    reports_outcomes: false
-    scholarships: Diversity scholarship available
-    topics:
-    - ios
-    - objective-c
-    - cocoa
-    - testing
-    tuition: 13900
+    tuition: 13,900
     tuition_units: USD
-  python-and-django:
-    admissions: Application, interview
+  interactive-web-development:
+    admissions: application
     cities:
     - atlanta
     - austin
     - charleston
     - charlotte
-    - columbia
+    - dallas
     - durham
     - greenville
     - houston
     - indianapolis
     - las-vegas
-    - little-rock
     - nashville
-    - salt-lake-city
+    - orlando
+    - raleigh
+    - tampa
     - washington-dc
-    commitment: unknown
-    cost_description: $13,900
-    description: "Future programmers can enroll in The Iron Yard\u2019s back-end engineering\
-      \ with\nPython and Django bootcamp. The curriculum focuses on building back-end\n\
-      systems, and reminds students that the back-ends of many high-profile websites\n\
-      (i.e. Instagram, Pinterest, and YouTube) are run via Python. During and after\n\
-      the program, The Iron Yard students and graduates have extensive access to\n\
-      career-related services such as one-on-one career coaching.\n\n"
-    display_name: Python and Django
-    duration: 12
+    commitment: part-time
+    cost_description: $3,150
+    description: "Our Interactive Web Development course will equip you with the basics of logic and programming and give you the skills to build functional, interactive web apps from scratch. In this course, you’ll go beyond HTML and CSS to use JavaScript and web standards technologies, and you’ll work with external data, common libraries and tools. If you decide you’re interested in changing your career, you can apply your tuition to our Web Development Career Path! Learn how to program using JavaScript, fully utilize your computer’s terminal command prompt and unix shell, create beautiful websites that both humans and search engines will love, and use JavaScript to pull data from external sources and build interactive interfaces."
+    display_name: Interactive Web Development
+    duration: 6
     duration_units: weeks
     financing: true
     guarantee: 'No'
     outcomes_verified: false
     placement: Undisclosed
     reports_outcomes: false
-    scholarships: Diversity scholarship available
+    scholarships: Several scholarships available
     topics:
-    - python
-    - django
+    - javascript
     - html
     - css
-    - javascript
-    - mvc
-    tuition: 13900
-    tuition_units: null
-  rails-engineering:
-    admissions: Application, interview
+    tuition: 3,150
+    tuition_units: USD
+  web-development-basics-in-person:
+    admissions: open to anyone
     cities:
     - atlanta
     - austin
     - charleston
     - charlotte
-    - columbia
+    - dallas
     - durham
     - greenville
     - houston
     - indianapolis
     - las-vegas
-    - little-rock
     - nashville
-    - salt-lake-city
+    - orlando
+    - raleigh
+    - tampa
     - washington-dc
-    commitment: full-time
-    cost_description: $13,900
-    description: "Over the course of three months, a heavy-duty programming veteran\
-      \ (and skilled\nmentor) will show you the power of Ruby on Rails, one of the\
-      \ most popular\nserver-side frameworks in the world. At the end of class you\u2019\
-      ll know how to\nbuild rock-solid servers, manage databases and know the basics\
-      \ of front end\napp development. The best part: we\u2019ll help you get a job\
-      \ offer when you\ngraduate (or your tuition back, guaranteed). Don\u2019t know\
-      \ any code? Don\u2019t worry.\nOur proven teachers and process will take you\
-      \ from zero to hero and mentor you\ninto a professional junior-level programmer.\n\
-      \n"
-    display_name: Rails Engineering
-    duration: 12
+    commitment: part-time
+    cost_description: $900
+    description: "Our Web Development Basics course will help you get acquainted with the core concepts of web development and give you a taste of what it’s like to build websites and applications. In this course, you’ll learn how to build a functional website and understand the core concepts of web development, from form and function to style and design."
+    display_name: Web Development Basics (in person)
+    duration: 2
     duration_units: weeks
     financing: true
     guarantee: 'No'
     outcomes_verified: false
     placement: Undisclosed
     reports_outcomes: false
-    scholarships: Diversity scholarship available
+    scholarships: false
     topics:
     - javascript
     - html
     - css
-    - ruby-on-rails
-    - sql
-    tuition: 13900
+    tuition: 900
     tuition_units: USD
-  user-interface-design:
-    admissions: Application, interview
+  web-development-basics-online:
+    admissions: open to anyone
     cities:
-    - austin
-    - columbia
-    commitment: unknown
-    cost_description: $13,900
-    description: "People interested in making websites look good and function well\
-      \ are ideal\ncandidates for The Iron Yard\u2019s user interface design bootcamp.\
-      \ Students will\nnot only learn plenty of HTML, CSS, and JavaScript skills,\
-      \ but also will learn\nthe fundamentals of typography, layout, and color theory.\
-      \ Graduates of The\nIron Yard\u2019s design bootcamp will also have some skills\
-      \ in Photoshop and\nIllustrator.\n\n"
-    display_name: User Interface Design
-    duration: 12
+    - remote
+    commitment: part-time
+    cost_description: $480
+    description: "Our Web Development Basics course will help you get acquainted with the core concepts of web development and give you a taste of what it’s like to build websites and applications. In this course, you’ll learn how to build a functional website and understand the core concepts of web development, from form and function to style and design."
+    display_name: Web Development Basics (in person)
+    duration: 2
     duration_units: weeks
     financing: true
     guarantee: 'No'
     outcomes_verified: false
     placement: Undisclosed
     reports_outcomes: false
-    scholarships: Diversity scholarship available
+    scholarships: false
     topics:
+    - javascript
     - html
     - css
-    - wireframing
-    - typography
-    - ui
-    tuition: 13900
-    tuition_units: null
-tagline: Become a professional programmer and get a great job
+    tuition: 480
+    tuition_units: USD
+tagline: Take charge of your career. Part-time and full-time web development courses available. 
 twitter: TheIronYard
 website: http://theironyard.com/
