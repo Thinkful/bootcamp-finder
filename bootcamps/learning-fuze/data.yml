@@ -39,7 +39,6 @@ programs:
   fullstack-web-development-bootcamp:
     admissions: Application, interviews, technical assessments, prep work 
     cities:
-    - orange-county
     - irvine
     commitment: full-time
     cost_description: $12,995
@@ -83,14 +82,12 @@ programs:
     - node-js
     - mysql
     - algorithms
-    - data-structures
     - git
     tuition: 12995
     tuition_units: USD $
   part-time-comprehensive-program: 
     admissions: Open to anyone with recommendations to each module
     cities:
-    - orange-county
     - irvine
     - remote
     commitment: part-time
@@ -151,7 +148,6 @@ programs:
     - node-js
     - mysql
     - algorithms
-    - data-structures
     - git
     tuition: 2995
     tuition_units: USD $
