@@ -39,8 +39,8 @@ programs:
   fullstack-web-development-bootcamp:
     admissions: Application, interviews, technical assessments, prep work 
     cities:
-    - Orange County
-    - Irvine
+    - orange-county
+    - irvine
     commitment: full-time
     cost_description: $12,995
     description: !!python/unicode 'The 12 week full immersion program teaches those
@@ -90,9 +90,9 @@ programs:
   part-time-comprehensive-program: 
     admissions: Open to anyone with recommendations to each module
     cities:
-    - Orange County
-    - Irvine
-    - Remote
+    - orange-county
+    - irvine
+    - remote
     commitment: part-time
     cost_description: $2,995 per module
     description: !!python/unicode 'Live instruction with the option to participate in-person 
