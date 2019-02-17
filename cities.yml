@@ -261,6 +261,11 @@
   aliases:
     - new-york-city
 
+- display_name: Oakland
+  slug: oakland
+  meta_description: The Bay Area is well-known for its access to the cutting edge of technology. Oakland is a budding spot for startups and just a short distance away from downtown San Francisco.
+  state: CA
+
 - display_name: Omaha
   slug: omaha
   description: Nebraska isn't known for its tech, but you can learn to code in Omaha coding bootcamps. Launch your midwestern software career at these schools.
