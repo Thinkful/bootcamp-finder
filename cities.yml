@@ -163,6 +163,11 @@
   description: Learn to code in Indianapolis, a gateway to the Midwest. With a small but promising tech scene, Indianapolis coding bootcamps can arm you with the skills necessary to help grow tech in Indy.
   state: IN
 
+- display_name: Irvine
+  slug: irvine
+  description: Learn to code in Irvine, a growing tech industry in Orange County. Join the developers making a splash nearby many beaches close by promiment tech companies.
+  state: CA
+
 - display_name: Jacksonville
   slug: jacksonville
   description: In a growing southern city, Jacksonville coding bootcamps help push students to grow the local tech industry. Learn to code in Jacksonville and start pioneering a new southern tech hub.

@@ -1,0 +1,156 @@
+description: !!python/unicode 'LearningFuze offers a full immersion 12-week web development 
+
+  bootcamp and part-time hybrid online courses in Irvine and Orange County, California. 
+  
+  
+  Students learn full-stack front and back end development including HTML5, CSS3, 
+  
+  JavaScript/jQuery, PHP, MySQL, React, Git/GitHub, Node.JS, Bootstrap, and Firebase. 
+  
+  Teaching includes problem-solving skills, essential workplace and interviewing skills, 
+  
+  and programmer mindset training.
+
+
+  The program does not require a degree or professional programming experience but does 
+  
+  require that students have the right qualities as well as a dedication to learning and
+  
+  making a full-time commitment. Discounts, payment plans, and student loans which can 
+  
+  also be used for living expenses are available. The full immersion program includes a 
+  
+  2-week prep class and a 12-week in-person course. 
+  
+  
+  After graduation, students will continue to be plugged in to LearningFuze through the 
+  
+  alumni network and the included job-search assistance. LearningFuze also offers a 
+  
+  part-time intro course on nights and weekends.
+
+  '
+display_name: LearningFuze
+founded_year: 2013
+meta-description: Discover information needed to succeed as a web developer 
+  and get placed within Orange County, California.
+primary_email: support@learningfuze.com
+programs:
+  fullstack-web-development-bootcamp:
+    admissions: Application, interviews, technical assessments, prep work 
+    cities:
+    - irvine
+    commitment: full-time
+    cost_description: $12,995
+    description: !!python/unicode 'The 12 week full immersion program teaches those
+    
+    technologies most in need in the marketplace with a heavy focus on JavaScript
+    
+    and the LAMP stack to become full stack web developers at the conclusion. The 
+    
+    curriculum has been honed to provide the technical skills to compete for a job
+    
+    in the marketplace and so that graduates can learn any chosen technology. In 
+    
+    addition, the program focuses on the soft skills related to web development so 
+    
+    that students not only have a polished portfolio of projects but the presentation
+    
+    and interview skills to effectively compete in the marketplace. In summary, 
+    
+    students learn by doing with the support of instructors that have been successful
+    
+    commercial developers for many years.
+    
+    '
+    display_name: Full-Stack Web Development Bootcamp
+    duration: 12
+    duration_units: weeks
+    financing: true
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: 95% post graduate hiring rate we have established for those that are 
+      engaged in the LearningFuze employment search process
+    reports_outcomes: false
+    scholarships: For veterans, CS Degrees, Graphic Design (Degree or Work Experience)
+    topics:
+    - javascript
+    - html
+    - css
+    - react
+    - php
+    - node-js
+    - mysql
+    - algorithms
+    - git
+    tuition: 12995
+    tuition_units: USD $
+  part-time-comprehensive-program: 
+    admissions: Open to anyone with recommendations to each module
+    cities:
+    - irvine
+    - remote
+    commitment: part-time
+    cost_description: $2,995 per module
+    description: !!python/unicode 'Live instruction with the option to participate in-person 
+    
+      or remotely. A curriculum designed to make students development and employment ready 
+      
+      based on the full immersion program. 
+      
+      
+      The Part-Time Comprehensive program is tailored to students who are looking for a part 
+      
+      time alternative to the full immersion program, and is designed to deliver the same 
+      
+      content and intensity of the full immersion program, but with the flexibility to take
+      
+      the program over time, in steps or “modules” based on their schedule. Additionally, 
+      
+      students looking for skills and knowledge in a particular technical area but not necessarily
+      
+      all 5 modules can simply choose to take an individual module of their choice rather than
+      
+      each module sequentially. Students can also choose to specific modules or "Tracks" related
+      
+      to Front End Development (Modules 1, 2 and 3), Back End Development (1, 2 and 4) or
+      
+      Full Stack (1, 2, 3 and 4). The 5th module is optional for those students looking for 
+      
+      career services. 
+      
+      
+      Simply apply and ensure you are ready to get the most out of the instruction. Of course,
+      
+      whether taking an individual module or two or working through all of the modules, the 
+      
+      program is all about the practical skills of development by building numerous full scale
+      
+      projects in a work like environment led by seasoned instructors!
+
+      '
+    display_name: Part Time Comprehensive Program
+    duration: 8
+    duration_units: weeks
+    financing: false
+    guarantee: '$500 discount for Module 1'
+    outcomes_verified: false
+    placement: 95% post graduate hiring rate we have established for those that are 
+      engaged in the LearningFuze employment search process
+    reports_outcomes: false
+    scholarships: Not available
+    topics:
+    - javascript
+    - html
+    - css
+    - react
+    - php
+    - node-js
+    - mysql
+    - algorithms
+    - git
+    tuition: 2995
+    tuition_units: USD $
+tagline: Follow your passion and become a professional web developer
+twitter: LearningFuze
+website: https://www.learningfuze.com
