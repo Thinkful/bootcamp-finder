@@ -54,7 +54,7 @@ meta_description: Read reviews of Thinkful's online coding bootcamp. Learn about
 primary_email: hello@thinkful.com
 programs:
   flexible-web-development-bootcamp:
-    admissions: Open to anyone
+    admissions: Complete an interview to make sure your learning preferences and schedule aligns with the course
     cities:
     - remote
     - atlanta
@@ -107,10 +107,11 @@ programs:
     duration: 6
     duration_units: months
     financing: true
-    guarantee: Yes - Thinkful guarantees you a job within 6 months of graduation or
-      your money back
+    guarantee: !!python/unicode 'Yes - if you don''t get a job in tech within 6 months of graduation, 
+      Thinkful will reimburse your tuition'
     outcomes_verified: true
-    placement: 93% of graduates land an engineering job within 6 months of graduation.
+    placement: Over 80% of our web development graduates have found full-time employment 
+      within 6 months of graduating.
     reports_outcomes: true
     scholarships: For women and veterans
     topics:
@@ -124,7 +125,7 @@ programs:
     tuition: 1500
     tuition_units: USD
   full-time-web-development-bootcamp:
-    admissions: Application and interview
+    admissions: Complete prep course and tech evaluation
     cities:
     - remote
     - atlanta
@@ -150,7 +151,7 @@ programs:
     - tampa
     - washington-dc
     commitment: full-time
-    cost_description: $16,000
+    cost_description: $3,520
     description: "Thinkful\u2019s full-time Engineering Immersion shares the same\
       \ in-depth, project based approach of the Flexible pace. The main difference\
       \ is that the Full Time pace pushes students to become web developers in 17\
@@ -162,13 +163,14 @@ programs:
       \ including Ruby and Python. Students also use industry-standard collaboration\
       \ tools such as GitHub and Slack.\n"
     display_name: Engineering Immersion
-    duration: 4
+    duration: 5
     duration_units: months
     financing: true
-    guarantee: Yes - Thinkful guarantees you a job within 6 months of graduation or
-      your money back
+    guarantee: !!python/unicode 'Yes - if you don''t get a job in tech within 6 months of graduation, 
+      Thinkful will reimburse your tuition'
     outcomes_verified: true
-    placement: 93% of graduates land an engineering job within 6 months of graduation.
+    placement: Over 80% of our web development graduates have found full-time employment 
+      within 6 months of graduating.
     reports_outcomes: true
     scholarships: For women and veterans
     topics:
@@ -180,8 +182,8 @@ programs:
     tuition: 14000
     tuition_units: USD
   flexible-data-science-bootcamp:
-    admissions: Complete prep course or coding challenge, anyone can take the prep
-      course.
+    admissions: Complete an interview to make sure your learning preferences and schedule 
+      aligns with the course
     cities:
     - remote
     - atlanta
@@ -223,11 +225,11 @@ programs:
     duration: 6
     duration_units: months
     financing: true
-    guarantee: Yes - Thinkful guarantees you a job within 6 months of graduation or
-      your money back
+    guarantee: !!python/unicode 'Yes - if you don''t get a job in tech within 6 months of graduation, 
+      Thinkful will reimburse your tuition'
     outcomes_verified: true
-    placement: As a brand-new program, Thinkful aims to carry over its 93% success
-      rate in job placement from the Web Development programs.
+    placement: Over 80% of our web development graduates have found full-time employment 
+      within 6 months of graduating.
     reports_outcomes: true
     scholarships: For women and veterans
     topics:
@@ -240,6 +242,175 @@ programs:
     - postgresql
     tuition: 7990
     tuition_units: USD
+  engineering-nights-and-weekends:
+    admissions: Complete prep course and tech evaluation
+    cities:
+    - remote
+    - atlanta
+    - austin
+    - boston
+    - chicago
+    - dallas
+    - denver
+    - detroit
+    - houston
+    - los-angeles
+    - miami
+    - minneapolis
+    - new-york
+    - orlando
+    - philadelphia
+    - phoenix
+    - raleigh
+    - salt-lake-city
+    - san-diego
+    - san-francisco
+    - seattle
+    - tampa
+    - washington-dc
+    commitment: part-time
+    cost_description: $1975 per month
+    description: !!python/unicode 'Thinkful''s Engineering Nights & Weekends is built 
+      to get you a job, guaranteed. Learn with instructors, classmates, and 1-on-1 mentorship 
+      in a virtual classroom. You''ll deploy tested, fullstack JavaScript applications as you 
+      pair program and work in a team environment. The fully online program requires 25 hours 
+      per week for 7 months.
+      
+      '
+    display_name: Engineering Nights & Weekends
+    duration: 7
+    duration_units: months
+    financing: true
+    guarantee: !!python/unicode 'Yes - if you don''t get a job in tech within 6 months of graduation, 
+      Thinkful will reimburse your tuition'
+    outcomes_verified: true
+    placement: Over 80% of our web development graduates have found full-time employment 
+      within 6 months of graduating.
+    reports_outcomes: true
+    scholarships: For women and veterans
+    topics:
+    - react
+    - node-js
+    - javascript
+    - html
+    - css
+    - git
+    tuition:
+    tuition_units: USD   
+  flexible-data-analytics-bootcamp:
+    admissions: Complete an interview to make sure your learning preferences and schedule 
+      aligns with the course
+    cities:
+    - remote
+    - atlanta
+    - austin
+    - boston
+    - chicago
+    - dallas
+    - denver
+    - detroit
+    - houston
+    - los-angeles
+    - miami
+    - minneapolis
+    - new-york
+    - orlando
+    - philadelphia
+    - phoenix
+    - raleigh
+    - salt-lake-city
+    - san-diego
+    - san-francisco
+    - seattle
+    - tampa
+    - washington-dc
+    commitment: part-time
+    cost_description: $1,495 per month
+    description: !!python/unicode 'The Data Analytics program combines an in-depth, 
+      project-based approach with two 1-on-1 sessions every week with a professional 
+      Data Analyst. This program is built to help those with no prior experience in 
+      data or technology land their first full time job as a data analyst - at a 
+      flexible pace and without having to quit your current job! You''ll work side-by-side 
+      with a professional data analyst to learn statistics, analysis and experiment design, 
+      how to work with visualizations in Tableau, a thorough understanding of Excel, SQL and 
+      Python. You''ll also have the option to meet in person with fellow students and mentors 
+      to share ideas and work through problems.
+      
+      '
+    display_name: Data Analytics Flex
+    duration: 6
+    duration_units: months
+    financing: true
+    guarantee: !!python/unicode 'Yes - if you don''t get a job in tech within 6 months of graduation, 
+      Thinkful will reimburse your tuition'
+    outcomes_verified: true
+    placement: Over 80% of our web development graduates have found full-time employment 
+      within 6 months of graduating.
+    reports_outcomes: true
+    scholarships: For women and veterans
+    topics:
+    - mysql
+    - python
+    - sql
+    tuition: 
+    tuition_units: USD 
+  flexible-product-design-bootcamp:
+    admissions: Complete an interview to make sure your learning preferences and schedule 
+      aligns with the course
+    cities:
+    - remote
+    - atlanta
+    - austin
+    - boston
+    - chicago
+    - dallas
+    - denver
+    - detroit
+    - houston
+    - los-angeles
+    - miami
+    - minneapolis
+    - new-york
+    - orlando
+    - philadelphia
+    - phoenix
+    - raleigh
+    - salt-lake-city
+    - san-diego
+    - san-francisco
+    - seattle
+    - tampa
+    - washington-dc
+    commitment: part-time
+    cost_description: $1,590 per month
+    description: !!python/unicode 'Thinkful''s Product Design Flex program is an online, 
+      flexible training program for busy, career-focused adults to become job-ready designers. 
+      Product Design Flex a holistic learning experience that includes mentorship from skilled 
+      designers, an industry-vetted curriculum, graded assignments, and a community of fellow 
+      designers to support you. Over 90% of senior designers say designers need to know how to 
+      code in today''s market. You''ll study the design process in depth, including UX research, 
+      visual design, and front-end development. You''ll also build a portfolio of real-life projects.
+      
+      '
+    display_name: Product Design Flex
+    duration: 6
+    duration_units: months
+    financing: true
+    guarantee: !!python/unicode 'Yes - if you don''t get a job in tech within 6 months of graduation, 
+      Thinkful will reimburse your tuition'
+    outcomes_verified: true
+    placement: Over 80% of our web development graduates have found full-time employment 
+      within 6 months of graduating.
+    reports_outcomes: true
+    scholarships: For women and veterans
+    topics:
+    - javascript
+    - html
+    - css
+    - ui
+    - ux
+    tuition: 
+    tuition_units: USD 
 tagline: An online program to go from beginner to engineer
 twitter: thinkful
 website: https://www.thinkful.com/bootcamp/web-development/flexible/
