@@ -1,135 +1,45 @@
-description: "Our program offers 4-week Python and Django coding classes where students\
-  \ interact with teachers, mentors, and students remotely. Students attend 3-hour\
-  \ long scheduled classes three times a week, complete assignments, and work on real-world\
-  \ projects with classmates. The class includes 50+ hours of real coding, 12+ real\
-  \ projects, and mentors available to answer questions at any time.\nOur bootcamp\
-  \ was recently rated as top 10 online coding school by Course Report.\nWe offer\
-  \ a 100% refund if students don\u2019t like the class. A 100% off scholarship is\
-  \ available to anyone that truly demonstrates the need and their passion for programming.\n"
+description: "RMOTR school offers 4-month online Python Web Development and Data Science bootcamps.\
+  \ Students interact with teachers, mentors, and classmates remotely and are equipped with the skills\
+  \ to land a new role in tech with the help of RMOTR career advisors. Trainings include a clear and\
+  \ curated path for the curriculum, scheduled live sessions, and mentor support every weekday to keep\
+  \ students accountable. Students also participate in creating well-thought, real-life projects to\
+  \ build their own portfolio, and much more. Prospective students can try full-featured access to a\
+  \ course for FREE during the whole first week of training (which includes 2 live classes).\
+  \ Students can unsubscribe at any time, no questions asked.\n"
 display_name: rmotr.com
 founded_year: 2014
 primary_email: questions@rmotr.com
 programs:
-  advanced-python-programming:
-    admissions: Application, technical assessment, interview
-    cities:
-    - remote
-    commitment: part-time
-    cost_description: $399
-    description: !!python/unicode 'Our "Advanced Python Programming" is great for
-      developers that want to move their Python knowledge to the next level. It''s
-      not intended for beginner coders, because many of the basic concepts are going
-      to be taken for granted. You will jump directly into the most advanced Python
-      topics, and also get a full immersion into Web applications development with
-      the Flask framework.
-
-      You will be learning HTTP concepts, and you will write and entire RESTful API
-      as part of this course.
-
-      The program aims to teach you things that you won''t find in most of the common
-      resources, like: good practices based on experience, conventions, most used
-      tools, etc.
-
-      '
-    display_name: Advanced Python Programming
-    duration: 4
-    duration_units: weeks
-    financing: false
-    guarantee: 'No'
-    outcomes_verified: false
-    placement: Undisclosed
-    reports_outcomes: false
-    scholarships: Whoever demonstrates that really needs them and is passionate about
-      programming
-    topics:
-    - python
-    - git
-    - algorithms
-    - apis
-    - json
-    - mongodb
-    - mysql
-    - nosql
-    - rest
-    - sql
-    - tdd
-    - testing
-    tuition: 399
-    tuition_units: USD
-  introduction-to-python-programming:
-    admissions: Application, technical assessment, interview
-    cities:
-    - remote
-    commitment: part-time
-    cost_description: $399
-    description: !!python/unicode 'Our "Introduction to Python Programming" is a great
-      choice for beginners developers. You will be learning a strong foundation of
-      concepts that will allow you grow as a professional coder. Even though it''s
-      focused in the Python programming language, concepts acquired in this course
-      will let you jump to pretty much any other technology.
-
-      It includes a solid explanation of Object Oriented Programming concepts, and
-      many other industry standard good practices and tools.
-
-      The program aims to teach you things that you won''t find in most of the common
-      resources, like: good practices based on experience, conventions, most used
-      tools, etc.
-
-      '
-    display_name: Introduction to Python Programming
-    duration: 4
-    duration_units: weeks
-    financing: false
-    guarantee: 'No'
-    outcomes_verified: false
-    placement: Undisclosed
-    reports_outcomes: false
-    scholarships: Whoever demonstrates that really needs them and is passionate about
-      programming
-    topics:
-    - python
-    - git
-    - algorithms
-    - tdd
-    - testing
-    tuition: 399
-    tuition_units: USD
   web-development-with-django:
-    admissions: Application, technical assessment, interview
+    admissions: Open to anyone
     cities:
     - remote
     commitment: part-time
-    cost_description: $399
-    description: !!python/unicode 'Our "Web Development with Django" course is great
-      for Python developers that are willing to get a job as Web developers or want
-      to create their our products/startups. You will start with a quick overview
-      of all the Django concepts, and jump directly into the most advanced features
-      of the framework. We dedicate a big part of the course to teach you about HTTP
-      concepts, MVC frameworks and RESTful architectures. You will be writing an entire
-      RESTful API using the well know "django-rest-framework" library.
-
-      The program aims to teach you things that you won''t find in most of the common
-      resources, like: good practices based on experience, conventions, most used
-      tools, building reusable Django apps and uploading them to pypi, deploying your
-      Django app or API, etc.
-
-      '
+    cost_description: $349
+    description: "RMOTR's Web Development with Django course is great for Python developers that are willing\
+      \ to get a job as Web developers or want to create their our products/startups. You will start with a quick\
+      \ overview of all the Django concepts, and jump directly into the most advanced features of the framework.\
+      \ We dedicate a big part of the course to teach you about HTTP concepts, MVC frameworks and RESTful architectures.\
+      \ You will be writing an entire RESTful API using the well know 'django-rest-framework' library.\
+      \ The program aims to teach you things that you won't find in most of the common resources, like: good practices\
+      \ based on experience, conventions, most used tools, building reusable Django apps and uploading them to pypi,\
+      \ deploying your Django app or API, etc.\n"
     display_name: Web Development with Django
     duration: 4
-    duration_units: weeks
+    duration_units: months
     financing: false
     guarantee: 'No'
     outcomes_verified: false
     placement: Undisclosed
     reports_outcomes: false
-    scholarships: Whoever demonstrates that really needs them and is passionate about
-      programming
+    scholarships: For women and veterans
     topics:
     - python
     - git
     - algorithms
     - apis
     - django
+    - flask
     - json
     - mvc
     - mysql
@@ -137,8 +47,42 @@ programs:
     - sql
     - tdd
     - testing
-    tuition: 399
+    tuition: 349
     tuition_units: USD
-tagline: Remote Python & Django Bootcamp
+  data-science-with-python:
+    admissions: Open to anyone
+    cities:
+    - remote
+    commitment: part-time
+    cost_description: $349
+    description: "A fully remote/online course, but with two LIVE classes per week + unlimited mentorship.\
+      \ Learn to use Python to automate every mundane task and perform data analysis with the most popular tools\
+      \ and libraries: Pandas, Matplotlib, Bokeh, Scrapy, etc. It's a 3-month course, led by a real instructor,\
+      \ meeting two times per week in live classes to help keep yourself accountable. Our course is highly practical,\
+      \ you won't learn just Python, but to interact with the whole environment: git, github, test driven developments,\
+      \ deployments, code reviews, etc.\n"
+    display_name: Data Science with Python
+    duration: 4
+    duration_units: months
+    financing: false
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: For women and veterans
+    topics:
+    - python
+    - data-science
+    - machine-learning
+    - algorithms
+    - numpy
+    - matplotlib
+    - regression
+    - git
+    - tdd
+    - testing
+    tuition: 349
+    tuition_units: USD
+tagline: Remote Python Data Science & Web Development Bootcamp
 twitter: rmotr_com
 website: https://rmotr.com/
