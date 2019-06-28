@@ -72,7 +72,7 @@ programs:
     - data-visualization
     - feature-engineering
     - classification-algorithms
-    - regression-algorithms
+    - regression
     - unsupervised-machine-learning
     - text-analytics
     - recommender-systems
