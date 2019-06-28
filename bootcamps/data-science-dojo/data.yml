@@ -29,20 +29,20 @@ programs:
     admissions: No prerequisites, but knowledge of one program language is recommended.
     cities:
     - seattle 
-    - new york 
-    - washington dc
+    - new-york 
+    - washington-dc
     - austin
     - chicago
     - singapore
     - barcelona 
     - dubai
     - toronto
-    - san francisco    
+    - san-francisco    
     - amsterdam
     - paris
     - dallas
     - london
-    - las vegas
+    - las-vegas
     - karachi
     - new delhi
     - islamabad
@@ -68,18 +68,20 @@ programs:
     reports_outcomes: false
     scholarships: 'Yes'
     topics:
-    - data exploration
-    - data visualization
-    - feature engineering
-    - classification algorithms
-    - regression algorithms
-    - unsupervised machine learning
-    - text analytics
-    - recommender systems
-    - ensemble methods and model evaluation
-    - operationalization of machine learning models
-    - big data analytics
-    - batch processing and real time analytics
+    - data-exploration
+    - data-visualization
+    - feature-engineering
+    - classification-algorithms
+    - regression-algorithms
+    - unsupervised-machine-learning
+    - text-analytics
+    - recommender-systems
+    - ensemble-methods 
+    - model-evaluation
+    - operationalization-of-machine-learning-models
+    - big-data-analytics
+    - batch-processing 
+    - real-time-analytics
     tuition: 3900
     tuition_units: USD $
 tagline: Data Science for Everyone
