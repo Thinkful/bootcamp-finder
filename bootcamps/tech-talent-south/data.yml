@@ -1,9 +1,9 @@
 description: !!python/unicode "Tech Talent South (TTS) is a Charlotte-based coding\
-  \ bootcamp dedicated to fostering talent in technology throughout the southeast\
+  \ bootcamp dedicated to fostering talent in technology throughout the\
   \ United States and aid the region in evolving its high-tech hubs. To make this\
   \ dream a reality, TTS has launched campuses in high-growth technology cities including\
-  \ Charlotte, Atlanta, Raleigh, Asheville, New Orleans, Dallas, Jacksonville, Phoenix,\
-  \ San Antonio, Winston-Salem, and Columbus. These campuses are in the heart of each\
+  \ Asheville, Atlanta, Charlotte, Columbus, New Orleans, Phoenix, San Antonio, Raleigh,\
+  \ Wilmington, and Winston-Salem. These campuses are in the heart of each\
   \ of their respective tech communities and provide students with amazing opportunities\
   \ to make connections in the local tech scenes.\n\nTTS truly values community and\
   \ fostering a strong ecosystem through dynamic and collaborative educational and\
@@ -20,14 +20,13 @@ description: !!python/unicode "Tech Talent South (TTS) is a Charlotte-based codi
   \ a week and is perfect for those currently working Full Time.\n\nTech Talent South\
   \ gives students partial, need-based scholarships. Apply to one of the scholarships\
   \ through the links below:\n<ul>\n  <li><a rel=\"nofollow\" target=\"_blank\" href=\"\
-  http://form.jotformpro.com/form/40617774908969/?utm_source=bootcamp-finder\">Female\
-  \ Only Scholarship</a></li>\n  <li><a rel=\"nofollow\" target=\"_blank\" href=\"\
-  https://form.jotform.com/41735358393967/?utm_source=bootcamp-finder\">Rockstar Scholarship</a></li>\n\
+  https://www.techtalentsouth.com/wit-scholarship?utm_source=bootcamp-finder\">Women\
+  \ In Tech Scholarship</a></li>\n  <li><a rel=\"nofollow\" target=\"_blank\" href=\"\
+  https://www.techtalentsouth.com/scholarship-application?utm_source=bootcamp-finder\">Rockstar Scholarship</a></li>\n\
   </ul>\n"
 display_name: Tech Talent South
-founded_year: 2014
-meta-description: Read graduate reviews from Tech Talent South. Find out about Tech
-  Talent South job placement and tuition in Dallas, Atlanta, Raleigh, and Phoenix.
+founded_year: 2013
+meta-description: Read graduate reviews from Tech Talent South. Learn about programs and tuition in Atlanta, Charlotte, Columbus, Dallas, New Orleans, Phoenix, San Antonio, and Raleigh!
 primary_email: info@techtalentsouth.com
 programs:
   code-immersion:
@@ -36,28 +35,23 @@ programs:
     - asheville
     - atlanta
     - charlotte
+    - columbus
     - dallas
-    - jacksonville
     - new-orleans
     - phoenix
     - san-antonio
     - raleigh
+    - wilmington
     - winston-salem
     commitment: full-time
     cost_description: $6,750
     description: !!python/unicode 'Tech Talent South offers their eight-week code
-      immersion bootcamps in nine
-
-      popular Southern destinations, such as New Orleans, Asheville, Charlotte,
-
-      and Raleigh. No previous coding experience is necessary to succeed at Tech
-
-      Talent South. Students will have opportunities to do a lot more than just
-
+      immersion bootcamps in many
+      popular destinations across the United States, such as Asheville, Atlanta,
+      Charlotte, Columbus, New Orleans, Phoenix, San Antonio, Raleigh, Wilmington,
+      and Winston-Salem. No previous coding experience is necessary to succeed at
+      Tech Talent South. Students will have opportunities to do a lot more than just
       code, including company tours and networking events.
-
-
-      '
     display_name: Code Immersion
     duration: 8
     duration_units: weeks
@@ -72,28 +66,32 @@ programs:
     - javascript
     - css
     - html
-    - ui
-    - ux
+    - sql
+    - apis
     - git
     tuition: 6750
     tuition_units: USD
   javascript-app-dev:
     admissions: Application, interview
     cities:
+    - asheville
     - atlanta
     - charlotte
+    - columbus
+    - dallas
+    - new-orleans
+    - phoenix
+    - san-antonio
+    - raleigh
+    - wilmington
+    - winston-salem
     commitment: part-time
     cost_description: $4,250
     description: !!python/unicode 'Tech Talent South currently offers their part-time
-      ten-week JavaScript Application Development class in Atlanta and Charlotte.
+      ten-week JavaScript Application Development class in all locations.
       Class meets twice a week in the evenings, and no previous coding experience
       is necessary to succeed in this class. Students will have opportunities to do
-      a lot more than just
-
-      code, including company tours and networking events.
-
-
-      '
+      a lot more than just code, including company tours and networking events.
     display_name: JavaScript Application Development
     duration: 10
     duration_units: weeks
@@ -108,10 +106,154 @@ programs:
     - html
     - css
     - ui
-    - ux
+    - react
     - git
     tuition: 4250
     tuition_units: USD
-tagline: Learn to code and do something big!
+  devops-continuous-integration:
+    admissions: Application, interview
+    cities:
+    - dallas
+    - san-antonio
+    commitment: full-time
+    cost_description: $13,500
+    description: !!python/unicode 'Tech Talent South currently offers its full-time
+      12-week DevOps and Continuous Integration class in Dallas and San Antonio, TX.
+      Class meets Monday through Friday with hands-on lab time in the afternoon, and no previous coding experience
+      is necessary to succeed in the course. Students will have opportunities to do
+      a lot more than just code, operations, and testing as they also have the opportunity to attend company tours, guest lectures, and other networking events.
+    display_name: DevOps and Continuous Integration
+    duration: 12
+    duration_units: weeks
+    financing: true
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: 'Yes'
+    topics:
+    - linux
+    - bash
+    - ruby
+    - testing
+    - git
+    - docker
+    - deployment
+    tuition: 13500
+    tuition_units: USD
+  ios-development:
+    admissions: Application, interview
+    cities:
+    - asheville
+    - atlanta
+    - charlotte
+    - columbus
+    - dallas
+    - new-orleans
+    - phoenix
+    - san-antonio
+    - raleigh
+    - wilmington
+    - winston-salem
+    commitment: part-time
+    cost_description: $3,250
+    description: !!python/unicode 'Tech Talent South currently offers its part-time
+      six-week iOS Development class in all locations.
+      Class meets twice a week in the evenings, and no previous coding experience
+      is necessary to succeed in this class. Students will have opportunities to do
+      a lot more than just code, including company tours and networking events.
+    display_name: iOS Development
+    duration: 6
+    duration_units: weeks
+    financing: true
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: 'Yes'
+    topics:
+    - xcode
+    - swift
+    - ios
+    tuition: 3250
+    tuition_units: USD
+  ux-design:
+    admissions: Application, interview
+    cities:
+    - asheville
+    - atlanta
+    - charlotte
+    - columbus
+    - dallas
+    - new-orleans
+    - phoenix
+    - san-antonio
+    - raleigh
+    - wilmington
+    - winston-salem
+    commitment: part-time
+    cost_description: $2,200
+    description: !!python/unicode 'Tech Talent South currently offers their part-time
+      4-week UX Design for Beginners class in all locations.
+      Class meets twice a week in the evenings, and no previous coding experience
+      is necessary to succeed in this class. Students will have opportunities to do
+      a lot more than just design, including company tours and networking events.
+    display_name: UX Design for Beginners
+    duration: 4
+    duration_units: weeks
+    financing: true
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: 'Yes'
+    topics:
+    - ui
+    - ux
+    - design
+    - prototype
+    - wireframe
+    tuition: 2200
+    tuition_units: USD
+  intro-web-design:
+    admissions: Application, interview
+    cities:
+    - asheville
+    - atlanta
+    - charlotte
+    - columbus
+    - dallas
+    - new-orleans
+    - phoenix
+    - san-antonio
+    - raleigh
+    - wilmington
+    - winston-salem
+    commitment: part-time
+    cost_description: $2,250
+    description: !!python/unicode 'Tech Talent South currently offers their part-time
+      four-week Intro to Web Design and Creation class in all locations.
+      Class meets twice a week in the evenings, and no previous coding experience
+      is necessary to succeed in this class. Students will have opportunities to do
+      a lot more than just code, including company tours and networking events.
+    display_name: Intro to Web Design and Creation
+    duration: 4
+    duration_units: weeks
+    financing: true
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: Undisclosed
+    reports_outcomes: false
+    scholarships: 'Yes'
+    topics:
+    - javascript
+    - html
+    - css
+    - ui
+    - wireframing
+    - git
+    tuition: 2250
+    tuition_units: USD
+tagline: Learn to Code and Do Something Big!
 twitter: TechTalentSouth
-website: http://techtalentsouth.com
+website: https://www.techtalentsouth.com/
