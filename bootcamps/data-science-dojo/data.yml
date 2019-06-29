@@ -79,7 +79,7 @@ programs:
     - ensemble-methods 
     - model-evaluation
     - operationalization-of-machine-learning-models
-    - big-data-analytics
+    - big-data
     - batch-processing 
     - real-time-analytics
     tuition: 3900
