@@ -40,17 +40,27 @@
   description: Discover bootcamps that teach authentication
   meta_description: Discover bootcamps that teach authentication
 
+- display_name: Batch Processing
+  slug: batch-processing
+  description: Discover bootcamps that teach Batch Processing
+  meta_description: Discover bootcamps that teach Batch Processing
+  
 - display_name: Big Data
   slug: big-data
   meta_description: "Compare bootcamps that cover Big Data and start your career processing data today!"
   description: "Big data keeps track of all the information in the world. Get ahead with these bootcamps."
-
+  
 - display_name: "C#"
   slug: c-sharp
   meta_description: "Find which bootcamps cover C# (C Sharp) and start learning today!"
   description: "Learn C# programming from bootcamps that specialize in teaching you this performance-driven language. Open a world of opportunities, including web apps, gaming, and desktop apps."
   featured: true
 
+- display_name: Classification Algorithms
+  slug: classification-algorithms
+  description: Discover bootcamps that teach Classification Algorithms
+  meta_description: Discover bootcamps that teach Classification Algorithms
+  
 - display_name: Clojure
   slug: clojure
   meta_description: "Learn Clojure and functional programming through these bootcamps"
@@ -71,12 +81,22 @@
   meta_description: "Find out which bootcamps will teach you D3 and learn how to build dynamic web infographics"
   description: "D3 is a visualization library that lets you build infographics, interactive charts, and more. Learn how at these bootcamps."
 
+- display_name: Data Exploration
+  slug: data-exploration
+  description: Discover bootcamps that teach data exploration
+  meta_description: Discover bootcamps that teach data exploration
+  
 - display_name: Data Science
   slug: data-science
   meta_description: "Learn Data Science at any of these bootcamps. Turn code and smarts into insight!"
   description: "Data Science lets you make sense of mountains of information. Learn the technology to make that happen at these bootcamps."
   featured: true
 
+- display_name: Data Visualization
+  slug: data-visualization
+  description: Discover bootcamps that teach Data Visualization
+  meta_description: Discover bootcamps that teach Data Visualization
+  
 - display_name: Django
   slug: django
   meta_description: "Compare bootcamps that cover Django and start building websites with Python today!"
@@ -87,11 +107,21 @@
   meta_description: "Learn which bootcamps offer Ember.JS and learn how to build single page applications"
   description: "Ember.js allows you to build dynamic single-page application using the MVVM design pattern. These bootcamps teach Ember.js."
 
+- display_name: Ensemble Methods
+  slug: ensemble-methods
+  description: Discover bootcamps that teach Ensemble Methods
+  meta_description: Discover bootcamps that teach Ensemble Methods
+  
 - display_name: Express
   slug: express
   meta_description: "Compare bootcamps offering Express and start building web applications with Node.JS and ExpressJS"
   description: "Learn Express to use JavaScript for backend development. These bootcamps teach Express, usually as part of a MEAN or MERN stack."
 
+- display_name: Feature Engineering
+  slug: feature-engineering
+  description: Discover bootcamps that teach Feature Engineering
+  meta_description: Discover bootcamps that teach Feature Engineering
+  
 - display_name: Flask
   slug: flask
   meta_description: "Compare bootcamps teaching flask as their Python framework and start building Python apps"
@@ -154,7 +184,7 @@
   slug: laravel
   meta_description: "Compare bootcamps teaching PHP's most used framework: Laravel"
   description: "PHP is still the most commonly used backend language on the internet. Laravel is its most popular framework. These bootcamps teach it."
-
+  
 - display_name: Machine Learning
   slug: machine-learning
   meta_description: "Learn which bootcamps will show you the intricacies of Machine Learning!"
@@ -179,6 +209,11 @@
   slug: mocha
   meta_description: "Find out which bootcamps will teach you JavaScript testing using the Mocha framework."
   description: "Writing good JavaScript requires testing. These bootcamps will teach you to test your JavaScript using Mocha."
+
+- display_name: Model Evaluation
+  slug: model-evaluation
+  description: Discover bootcamps that teach Model Evaluation
+  meta_description: Discover bootcamps that teach Model Evaluation
 
 - display_name: MongoDB
   slug: mongodb
@@ -226,6 +261,11 @@
   description: Discover bootcamps that teach object-oriented programming
   meta_description: Discover bootcamps that teach object-oriented programming
 
+- display_name: Operationalization of Machine Learning Models
+  slug: operationalization-of-machine-learning-models
+  description: Discover bootcamps that teach Operationalization of Machine Learning Models
+  meta_description: Discover bootcamps that teach Operationalization of Machine Learning Models
+ 
 - display_name: PHP
   slug: php
   meta_description: "Learn which bootcamps teach the most approachable language, PHP"
@@ -262,6 +302,11 @@
   meta_description: "Compare bootcamps teaching the React frontend framework and start building web apps like Facebook does!"
   description: "React is a frontend web development framework built by Facebook. Build web apps and learn a marketable skill with these React bootcamps."
 
+- display_name: Recommender Systems
+  slug: recommender-systems
+  description: Discover bootcamps that teach Recommender Systems
+  meta_description: Discover bootcamps that teach Recommender Systems
+  
 - display_name: Regresssion
   slug: regression
   meta_description: "Compare bootcamps teaching basic statistic concepts such as regressions"
@@ -273,6 +318,11 @@
   description: "Design bootcamps teach you to make beautiful web pages and apps. Check them out."
   featured: true
 
+- display_name: Real Time Analytics
+  slug: real-time-analytics
+  description: Discover bootcamps that teach Real Time Analytics
+  meta_description: Discover bootcamps that teach Real Time Analytics
+  
 - display_name: Responsive Design
   slug: responsive-design
   meta_description: "Compare bootcamps teaching responsive design and join the legion of mobile-first developers"
@@ -336,6 +386,11 @@
   meta_description: "Compare bootcamps that have testing as a part of their curriculum."
   description: "Testing is a key part of deploying any new software. These bootcamps heavily feature testing in their curricula."
 
+- display_name: Text Analytics
+  slug: text-analytics
+  description: Discover bootcamps that teach Text Analytics
+  meta_description: Discover bootcamps that teach Text Analytics
+  
 - display_name: Typography
   slug: typography
   meta_description: "Learn which bootcamps cover typography and make sure the dots eventually connect."
@@ -361,6 +416,11 @@
   meta_description: "Learn which bootcamps will set you up for success within the UNIX shell and beyond"
   description: "UNIX is a decades-old programming shell that's still crucial in the industry. These bootcamps will teach you to work with UNIX."
 
+- display_name: Unsupervised Machine Learning
+  slug: unsupervised-machine-learning
+  description: Discover bootcamps that teach Unsupervised Machine Learning
+  meta_description: Discover bootcamps that teach Unsupervised Machine Learning
+  
 - display_name: UX
   slug: ux
   meta_description: "Compare bootcamps that include important product work like user experience in their curriculum"
