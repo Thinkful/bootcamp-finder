@@ -42,6 +42,10 @@
   description: Learn to code in Bali in the heart of Indonesia. Code & Surf can make a great combo!
   state: Indonesia
 
+- display_name: Bangkok
+  slug: bangkok
+  state: Thailand
+  
 - display_name: Barcelona
   slug: barcelona
   description: Learn to code in Barcelona, one of Spain's cultural centers. Coding bootcamps in Barcelona can get your programming career started in Spain.
@@ -66,6 +70,10 @@
   featured: true
   state: CO
 
+- display_name: Bucharest
+  slug: bucharest
+  state: Romania
+  
 - display_name: Calgary
   slug: calgary
   state: Canada
@@ -110,6 +118,10 @@
   featured: true
   state: CO
 
+- display_name: Delhi
+  slug: delhi
+  state: India
+  
 - display_name: Detroit
   slug: detroit
   description: Detroit's coding bootcamps can get your coding career started in Michigan. Learn to code in Detroit.
@@ -163,11 +175,19 @@
   description: Learn to code in Indianapolis, a gateway to the Midwest. With a small but promising tech scene, Indianapolis coding bootcamps can arm you with the skills necessary to help grow tech in Indy.
   state: IN
 
+- display_name: Islamabad
+  slug: islamabad
+  state: Pakistan
+  
 - display_name: Jacksonville
   slug: jacksonville
   description: In a growing southern city, Jacksonville coding bootcamps help push students to grow the local tech industry. Learn to code in Jacksonville and start pioneering a new southern tech hub.
   state: FL
 
+- display_name: Karachi
+  slug: karachi
+  state: Pakistan
+  
 - display_name: Las Vegas
   slug: las-vegas
   meta_description: With a strong entertainment industry in the city, Las Vegas coding bootcamps can arm you to build web and mobile apps to help companies get the word out. Learn to code in Las Vegas and help build the city's tech presence.
@@ -297,6 +317,10 @@
   featured: true
   state: OR
 
+- display_name: Pretoria
+  slug: pretoria
+  state: South Africa
+  
 - display_name: Provo
   slug: provo
   description: Provo is part of a growing Rocky Mountain tech scene. Join the industry by learning to code at a Provo coding bootcamp, not far from some of the country's biggest ski slopes.
