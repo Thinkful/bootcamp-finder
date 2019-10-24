@@ -1,0 +1,35 @@
+description: !!python/unicode 'Gain web development skills in 10 weeks. If you’re a passionate maker, creative problem solver, or tenacious learner, then DeVry Bootcamp may be for you. Our web development program is offered in collaboration with RefactorU. We offer a holistic approach that is different than other bootcamps. Our program is designed to not only help you acquire essential technical skills, but also to help you present your personal brand and cultivate a network of new contacts.
+ 
+ 
+'
+display_name: DeVry Bootcamp
+founded_year: 2016
+meta-description: Learn about our immersive full-stack JavaScript coding bootcamp.
+primary_email: bootcamp@devry.edu
+programs:
+  primary:
+    admissions: Application
+    cities:
+    - denver
+    - chicago
+    commitment: full-time
+    cost_description: $9,750
+    description: "Our web application development bootcamp is a selective, 10-week, hands-on, immersive course offered in Denver, CO and Chicago, IL. You’ll learn modern full-stack development from world-class instructors. You’ll create your own applications and build a portfolio of projects to share with employers. You’ll develop a peer and advisor network."
+    display_name: Bootcamp
+    duration: 10
+    duration_units: weeks
+    financing: true
+    guarantee: 'No'
+    outcomes_verified: false
+    placement: N/a
+    reports_outcomes: false
+    scholarships: 'No'
+    topics:
+    - javascript
+    - css
+    - html
+    tuition: 9750
+    tuition_units: USD $
+tagline: Learn Cutting Edge JavaScript Skills
+twitter: devryuniv
+website: http://partner.devry.edu/bootcamp/
