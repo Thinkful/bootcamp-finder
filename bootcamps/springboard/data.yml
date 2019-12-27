@@ -1,49 +1,286 @@
-description: !!python/unicode 'Springboard is focused on providing accessible data
-  science courses to students everywhere in the world. With a part-time approach,
-  Springboard students learn on their own time and meet 1-on-1 with mentors who help
-  them move forward with the curriculum. By offering several different courses and
-  curricula, as well as workshops, Springboard has options for beginners, seasoned
-  programmers, and even novice data scientists to level up their skills and improve
-  their career.
+description: !!python/unicode 'Springboard is an online school for learning 21st century skills in fields like data science, 
+  UX design, digital marketing, and business analytics. Springboard has served thousands of students around the world through a 
+  combination of expert-curated curricula and one-on-one mentorship.
+
+  Springboard Career Track program''s comes with a job guarantee, ensuring students secure a job within six months of graduation 
+  or get a full refund. Graduates who accepted new jobs reported an average annual salary increase of $23k+. 
+  Through their deferred tuition program, students can enroll for a small deposit and finish paying after starting a job.
+
+  Springboard''s self-paced courses offer students the opportunity to develop job-ready skills that they display in an industry-worthy
+  capstone or portfolio projects. And throughout the process, students receive support from their industry mentor, as well as Springboard''s 
+  resident advisors and the larger student/alumni community.
+
+
+  Springboard has four different career track programs all of which are delivered online and designed to work within students'' existing schedules.  
+  Students can complete any of the Springboard career track programs without the need to quit their existing job/schooling. 
+  -- The Data Science and AI programs teach the latest in data mining, data visualization, advanced data science techniques and has
+  students'' apply it to solve real-life projects.
+  --The Design programs teach the foundations of UX research and planning, as well as the foundations of UI design
+  --Springboard'' Analytics program, in partnership with Microsoft, teaches students data analytics including framing structured thinking, 
+  connecting data, visualizing data, and communicating analysis.
+  --The Coding programs teach the latest technologies and frameworks used by top developers at companies like Facebook and Netflix,
+   such as React.js and Node.js. You’ll also get hands-on experience through sprints and capstone projects.
+
+
+  In every program, Soringboard will uniquely match students with compatible mentors at top companies in their carer track area.
+
+  Springboard also provides a job guartantee. Get a job within six months of graduating, or your money back. Springboard students 
+  see an average increase of $25,000 in salary, and are hired by companies like Google, Microsoft, Amazon, Facebook, and more.
 
   '
 display_name: Springboard
-founded_year: 2015
-meta-description: Learn data science online with Springboard. Read reviews, get curriculum
-  info, and find out the price of Springboard's data science programs.
+founded_year: 2013
+meta_description: Read reviews of Springboard's online career tracks. Learn about their
+  1-on-1 mentorship and find out how Springboard can help you get to your dream career.
 primary_email: hello@springboard.com
 programs:
-  data-science-intensive:
-    admissions: None
+  data-science-career-track:
+    admissions: Complete a tech evaluation and an appication interview to make sure your learning preferences and career desires align with the course
     cities:
     - remote
     commitment: part-time
-    cost_description: $500 subscription, charged monthly
-    description: !!python/unicode 'Springboard''s Data Science Intensive is built
-      for you to take it anywhere, guided by self-learning and expert mentorship.
-      Students complete 7 projects over the course of the curriculum, which is expected
-      to require 120 hours of commitment. Graduates earn a certificate of completion,
-      signed by their mentor.
+    cost_description: $1,490 per month ($7,500 one-time)
+    description: !!python/unicode 'Our Data Science Career Track provides
+      an in-depth, project-based approach with 1-on-1 mentorship. This 
+      data science bootcamp was designed for people with prior experience 
+      in statistics and programming, such as software developers, analysts, 
+      and finance professionals. All professional and academic backgrounds are welcome.
 
+      Prerequisites
+      - 6 months of active coding experience with a general-purpose programming language (e.g., Python, R, Java, C++)
+      - Comfortable with basic probability and descriptive statistics, including concepts 
+      like mean and median, standard deviation, distributions, and histograms.
       '
-    display_name: Bootcamp
-    duration: 120
-    duration_units: hours
+    display_name: Data Science Career Track
+    duration: 6
+    duration_units: months
     financing: true
-    guarantee: 'No'
-    outcomes_verified: false
-    placement: Job hunt assistance is provided
-    reports_outcomes: false
-    scholarships: 'No'
+    guarantee: !!python/unicode 'Yes - if you don''t get a job in tech within 6 months of graduation, 
+      Springboard will reimburse your tuition'
+    outcomes_verified: true
+    placement: Over 3000 students enrolled in Springboard Career Track since 2016 with only 4 job guarantee refunds.
+    reports_outcomes: true
+    scholarships: For women and veterans
     topics:
+    - big-data
+    - statistics
+    - machine-learning
     - data-science
-    - python
-    - matplotlib
-    - git
-    - nosql
+    - algorithms
+    tuition: 8940
+    tuition_units: USD
+  machine-learning-career-track:
+    admissions: Complete a tech evaluation and an appication interview to make sure your learning preferences and career desires align with the course
+    cities:
+    - remote
+    
+
+    commitment: part-time
+    cost_description: $1,490 per month ($7,940 one-time)
+    description: !!python/unicode 'Our Machine Learning Career Track provides
+      an in-depth, project-based approach with 1-on-1 mentorship. In addition 
+      to small projects designed to reinforce specific technical concepts, 
+      you’ll build a realistic, complete, ML application that’s available to 
+      use via an API, a web service or, optionally, a website.
+      
+      This machine learning bootcamp was designed for people with strong 
+      software engineering skills and industry experience, who want to become Machine Learning Engineers.
+
+      Prerequisites
+      - At least one year of software engineering industry experience using a general purpose Object-oriented 
+      programming language, such as Python, Java and C++.
+      - If you do not have industry software experience, 1-2 years on-the-job coding experience in graduate school, a bachelor’s program or on open-source projects may meet the requirements.
+      '
+    display_name: Machine Learning Engineering Career Track
+    duration: 6
+    duration_units: months
+    financing: true
+    guarantee: !!python/unicode 'Yes - if you don''t get a job in tech within 6 months of graduation, 
+      Springboard will reimburse your tuition'
+    outcomes_verified: true
+    placement: Over 3000 students enrolled in Springboard Career Track since 2016 with only 4 job guarantee refunds.
+    reports_outcomes: true
+    scholarships: For women and veterans
+    topics:
+    - big-data
+    - statistics
+    - machine-learning
+    - data-science
+    - algorithms
     - regression
-    tuition: 500
-    tuition_units: USD $
-tagline: Own Your Career
-twitter: Springboard
-website: https://www.springboard.com/
+    tuition: 8940
+    tuition_units: USD
+  data-analytics-career-track:
+    admissions: Complete a tech evaluation and an appication interview to make sure your learning preferences and career desires align with the course
+    cities:
+    - remote
+    
+
+    commitment: part-time
+    cost_description: $1,100 per month ($5,500 one-time)
+    description: !!python/unicode 'Our Data Analytics Career Track provides
+      an in-depth, project-based approach with 1-on-1 mentorship. 
+      
+      This data analytics bootcamp was designed for people who demonstrate an aptitude towards critical 
+      thinking and problem solving, and have two years of work experience.
+
+      Prerequisites
+      - Strong critical thinking and problem-solving skills.
+      - 2 years of professional work experience working regularly with office, design or programming tools
+      - Fluency in English (written and spoken), as determined by initial interactions with the Admissions team
+      '
+    display_name: Data Analytics Career Track
+    duration: 6
+    duration_units: months
+    financing: true
+    guarantee: !!python/unicode 'Yes - if you don''t get a job in tech within 6 months of graduation, 
+      Springboard will reimburse your tuition'
+    outcomes_verified: true
+    placement: Over 3000 students enrolled in Springboard Career Track since 2016 with only 4 job guarantee refunds.
+    reports_outcomes: true
+    scholarships: For women and veterans
+    topics:
+    - big-data
+    - statistics
+    - algorithms
+    - regression
+    - matplotlib
+    - r
+    - sql
+    tuition: 6600
+    tuition_units: USD
+  ui-ux-career-track:
+    admissions: Complete an appication interview to make sure your learning preferences and career desires align with the course
+    cities:
+    - remote
+    commitment: part-time
+    cost_description: $1,099 per month ($8,200 one-time)
+    description: !!python/unicode 'In our UI/UX Career Track you will build a versatile skill set. Hiring managers say that most design 
+    roles require an understanding of both UI and UX. Design has become a high priority for organizations worldwide, with CNBC reporting 
+    UI/UX to be in the top 5 fastest growing jobs in 2019.
+    All you need for this program is an eye for good visual design and the ability to empathize with your user.
+
+    In the course, you''ll work on substantial design projects and complete a real world externship with an industry client.
+    After 9 months, you''ll graduate with a UI/UX design mindset and a portfolio to show for it.
+
+    Prerequisites
+    - All backgrounds are welcome as long as you can demonstrate strong visual, creativity, and communication skills.
+    - Passing an evaluation of baseline visual skills, analytical thinking and the ability to empathize with users.
+    '
+    display_name: UI/UX Career Track
+    duration: 9
+    duration_units: months
+    financing: true
+    guarantee: !!python/unicode 'Yes - if you don''t get a job in tech within 6 months of graduation, 
+      Springboard will reimburse your tuition'
+    outcomes_verified: true
+    placement: Over 3000 students enrolled in Springboard Career Track since 2016 with only 4 job guarantee refunds.
+    reports_outcomes: true
+    scholarships: For women and veterans
+    topics:
+    - css
+    - html
+    - javascript
+    - jquery
+    - wireframing
+    - web-design
+    - design
+    - responsive-design
+    - user-research
+    - ui
+    - ux
+    - typography
+    - testing
+    tuition: 9891
+    tuition_units: USD
+  ux-design-career-track:
+    admissions: Complete an appication interview to make sure your learning preferences and career desires align with the course
+    cities:
+    - remote
+    
+    commitment: part-time
+    cost_description: $1,199 per month ($5,900 one-time)
+    description: !!python/unicode 'In our UX Career Track you will build a versatile skill set. This UX bootcamp is for 
+    people who demonstrate an aptitude toward problem solving, have strong communication and collaboration skills, 
+    and have a background in adjacent fields.
+
+    Prerequisites
+    - Aptitude toward problem-solving, communication, and collaboration skills.
+    - At least 1 year of documented professional experience or a degree in a user, design, or 
+    development oriented fields. For example: graphic / visual / UI design, psychology, research, web dev, marketing research or strategy.
+
+    '
+    display_name: UX Career Track
+    duration: 6
+    duration_units: months
+    financing: true
+    guarantee: !!python/unicode 'Yes - if you don''t get a job in tech within 6 months of graduation, 
+      Springboard will reimburse your tuition'
+    outcomes_verified: true
+    placement: Over 3000 students enrolled in Springboard Career Track since 2016 with only 4 job guarantee refunds.
+    reports_outcomes: true
+    scholarships: For women and veterans
+    topics:
+    - css
+    - html
+    - javascript
+    - jquery
+    - wireframing
+    - web-design
+    - design
+    - responsive-design
+    - user-research
+    - ui
+    - prototyping
+    - ux
+    - typography
+    - testing
+    tuition: 7194
+    tuition_units: USD
+  software-engineering-career-track:
+    admissions: Complete an appication interview to make sure your learning preferences and career desires align with the course
+    cities:
+    - remote
+    
+
+    commitment: part-time
+    cost_description: $1,150 per month ($8,500 one-time)
+    description: !!python/unicode 'Springboard partnered with one of Udemy''s top-rated software engineering instructors, Colt Steele, to create this course. 
+    Colt''s classes have over 600,000 students worldwide, and his graduates work at companies like Google, Salesforce, and Square.
+
+    Each module of the Software Engineering Career Track course covers key aspects of front-end web development, back-end web development, databases, 
+    and data structures and algorithms. Modules include learning resources, practice exercises, projects, and career-related coursework.
+
+    You''ll build two full-stack capstone projects to showcase your skills to employers. You''ll work directly with a personal mentor, 
+    an expert software engineer currently working in the industry.
+
+    Prerequisites
+    - JavaScript fundamentals - Ability to write simple functions, loops, conditional statements and declare variables
+    - Programmatic problem solving skills - Ability to break down a problem into its component pieces, think through it logically, and come up with a solution
+    - Recommended skils in HTML & CSS fundamentals - Ability to build simple web pages with basic knowledge of selectors, common CSS rules and specificity
+    '
+    display_name: Software Engineering Career Track
+    duration: 9
+    duration_units: months
+    financing: true
+    guarantee: !!python/unicode 'Yes - if you don''t get a job in tech within 6 months of graduation, 
+      Springboard will reimburse your tuition'
+    outcomes_verified: true
+    placement: Over 3000 students enrolled in Springboard Career Track since 2016 with only 4 job guarantee refunds.
+    reports_outcomes: true
+    scholarships: For women and veterans
+    topics:
+    - web-design
+    - python
+    - flask
+    - sql
+    - node-js
+    - express
+    - react
+    - agile-methodologies
+    - object-oriented-programming
+    tuition: 10350
+    tuition_units: USD
+tagline: Bridging the World''s Skills Gap
+twitter: springboard
+website: https://www.springboard.com
