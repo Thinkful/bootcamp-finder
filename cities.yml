@@ -168,6 +168,13 @@
   description: In a growing southern city, Jacksonville coding bootcamps help push students to grow the local tech industry. Learn to code in Jacksonville and start pioneering a new southern tech hub.
   state: FL
 
+- display_name: Kho Tao
+  slug: kho-tao
+  meta_description: Ko Tao is a tropical dream. It is an island in Thailand and forms part of the Chumphon Archipelago on the western shore of the Gulf of Thailand.
+  description: Ever dreamed of living on a small, tropical island? Why not learn to code during the day, watch the sunset from the beach, and scuba dive and snorkel every weekend? 
+  featured: true
+  state: Thailand
+
 - display_name: Las Vegas
   slug: las-vegas
   meta_description: With a strong entertainment industry in the city, Las Vegas coding bootcamps can arm you to build web and mobile apps to help companies get the word out. Learn to code in Las Vegas and help build the city's tech presence.
@@ -221,6 +228,13 @@
   slug: melbourne
   description: Melbourne coding bootcamps offer Australians the opportunity to build new software and tech companies. Learn to code in Melbourne and start building the future.
   state: Australia
+
+- display_name: Mexico City
+  slug: mexico-city
+  description: Named as "the metropolis that has it all" by the New York Times, Mexico City allows you to penetrate its streets and encounter their historical past.
+  meta-description: Mexico City offers bohemian corners nestled in traditional bars and restaurants that have become a haven for travelers and locals alike. It transports you to a surreal world comprised of the eclectic mix of wrestling matches, grand baroque aesthetic, and luxurious palaces. It has an incredibly diverse nightlife, where you will find everything from unconventional clubs to typical canteens, and venues that offer a cosmopolitan flavor, which represents but a fragment of the complex cultural mosaic that converges in this city. It comes as no surprise that it is considered one of the most exciting cities to visit.
+  featured: true
+  state: Mexico
 
 - display_name: Miami
   slug: miami
@@ -381,6 +395,13 @@
   description: The Maple Leafs might never win the Stanley Cup again, but at least there's a growing tech scene. Learn to code in Toronto at these top coding bootcamps to get going on web and mobile development.
   featured: true
   state: Canada
+
+- display_name: Ubud
+  slug: ubud
+  meta_description: The town of Ubud, in the uplands of Bali, Indonesia, is known as a center for traditional crafts and dance.
+  description: Ubud, Bali is a magical place. Here you are surrounded by unmatched beaty, incredible culture, friendly people and digital nomads from around the world.
+  featured: true
+  state: Bali
 
 - display_name: Vancouver
   slug: vancouver
