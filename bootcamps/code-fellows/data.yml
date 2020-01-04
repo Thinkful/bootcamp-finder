@@ -1,37 +1,17 @@
-description: !!python/unicode 'Code Fellows offers world-class software development
-  training in Seattle, Portland, and New York, with more locations to come.
+description: !!python/unicode 'Code Fellows is a Seattle-based, in-person coding academy that guides people from all backgrounds to change their lives through career-focused education. They shape passionate coders with immersive training to meet industry needs and improve diversity in the tech scene.
 
-
-  In the one-day Code 101, students can test run a tech career. Code 201 is all about
-  giving students a strong foundation in web development through creating websites
-  with HTML, CSS, JavaScript, and modern frameworks and libraries. Code 301 students
-  learn more advanced technical skills of software development, including working
-  with APIs, building interactive websites, and coding in higher level HTML5, CSS3,
-  and JavaScript.
-
-
-  Code 401 curriculum focuses on a specific area of study: full-stack JavaScript,
-  iOS development, or Python programming. The Professional Development curriculum
-  in every Code 401 equips students with networking and interview skills vital to
-  a successful job search.
-
-
-  The Diversity Scholarship Fund provides additional support for women, veterans,
-  and underserved populations who want to pursue careers in software development.
+In every course, students get hands-on development experience, working in teams to apply their training and building apps that expand their skills. Advanced-level students specialize in full-stack JavaScript, Python, ASP.NET, or Java development, and contribute to the culture and goals of the companies they join.'
 
   '
 display_name: Code Fellows
 founded_year: 2013
-meta-description: Code Fellows reviews and cost information. Find out about Code Fellows
-  in Seattle, Portland, and Chicago acceptance rates.
+meta-description: Code Fellows reviews and cost information. Find out about Code Fellows acceptance rates.
 primary_email: admissions@codefellows.com
 programs:
   code-101:
     admissions: Open
     cities:
-    - portland
     - seattle
-    - new-york
     commitment: part-time
     cost_description: $99
     description: !!python/unicode 'Code 101 is designed for anyone considering a new
@@ -68,7 +48,6 @@ programs:
   code-201:
     admissions: Application, phone interview, code challenge
     cities:
-    - portland
     - seattle
     commitment: full-time
     cost_description: $3,500
@@ -95,12 +74,11 @@ programs:
     - javascript
     - git
     - algorithms
-    tuition: 3500
+    tuition: 5000
     tuition_units: USD
   code-301:
     admissions: Application, phone interview, code challenge
     cities:
-    - portland
     - seattle
     commitment: full-time
     cost_description: $4,500
@@ -139,12 +117,11 @@ programs:
     - algorithms
     - ajax
     - sql
-    tuition: 4500
+    tuition: 5000
     tuition_units: USD
   code-401-full-stack-javascript:
     admissions: Application, phone interview, code challenge
     cities:
-    - portland
     - seattle
     commitment: full-time
     cost_description: $12,000
@@ -205,7 +182,6 @@ programs:
   code-401-ios:
     admissions: Application, phone interview, code challenge
     cities:
-    - portland
     - seattle
     commitment: full-time
     cost_description: $12,000
@@ -258,7 +234,6 @@ programs:
   code-401-python:
     admissions: Application, phone interview, code challenge
     cities:
-    - portland
     - seattle
     commitment: full-time
     cost_description: $12,000
