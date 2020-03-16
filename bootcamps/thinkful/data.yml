@@ -398,6 +398,106 @@ programs:
     - analytics
     tuition: 5500
     tuition_units: USD
+  full-time-digital-marketing-bootcamp:
+    admissions: Complete an interview to make sure your learning preferences and schedule aligns with the course
+    cities:
+    - remote
+    - atlanta
+    - austin
+    - boston
+    - chicago
+    - dallas
+    - denver
+    - detroit
+    - houston
+    - los-angeles
+    - miami
+    - minneapolis
+    - new-york
+    - orlando
+    - philadelphia
+    - phoenix
+    - raleigh
+    - salt-lake-city
+    - san-diego
+    - san-francisco
+    - seattle
+    - tampa
+    - washington-dc
+    commitment: full-time
+    cost_description: $4,150 per month
+    description: !!python/unicode 'Thinkful''s Digital Marketing program transforms students into 360 digital marketers with expertise in the skills needed to land a job in digital marketing: campaigns, market research, persona and brand development, content, email, social media, search, analytics, and marketing automation tools. With each of these concepts, we provide real-world exercises and projects that build towards a professional portfolio. Students have mentors, undergo mock interviews, and work closely with our Career Services team to get a job in digital marketing.'
+    display_name: Digital Marketing Immersion
+    duration: 2
+    duration_units: months
+    financing: true
+    guarantee: !!python/unicode 'Yes - if you don''t get a job in digital marketing within 6 months of graduation, Thinkful will reimburse your tuition'
+    outcomes_verified: true
+    placement: Over 80% of Thinkful graduates have found full-time employment within 6 months of graduating.
+    reports_outcomes: true
+    scholarships: For women and veterans
+    topics:
+    - digital-marketing-landscape
+    - campaigns
+    - customer-insights
+    - branding
+    - content-marketing
+    - email-marketing
+    - social-media-marketing
+    - search-marketing
+    - analytics
+    tuition: 8300
+    tuition_units: USD
+  full-time-product-design-bootcamp:
+    admissions: Complete an interview to make sure your learning preferences and schedule aligns with the course
+    cities:
+    - remote
+    - atlanta
+    - austin
+    - boston
+    - chicago
+    - dallas
+    - denver
+    - detroit
+    - houston
+    - los-angeles
+    - miami
+    - minneapolis
+    - new-york
+    - orlando
+    - philadelphia
+    - phoenix
+    - raleigh
+    - salt-lake-city
+    - san-diego
+    - san-francisco
+    - seattle
+    - tampa
+    - washington-dc
+    commitment: full-time
+    cost_description: $2,700 per month
+    description: !!python/unicode 'Thinkful''s full-time UX/UI Design Immersion program teaches you the skills needed to start a high-growth career in UX/UI design. Through our Income Share Agreement, students have the option to pay zero tuition until they’ve landed a job in tech. In an immersive, virtual classroom students will learn fundamental design concepts applicable across several functions of UX/UI design: user experience research, interaction design, wireframing, prototyping, testing, and iteration based on user data. With each of these concepts, we provide real-world exercises and projects that build towards a professional portfolio in one of three key specializations: UX research, web design, or visual design. Students have mentors, undergo mock interviews, and work closely with our Career Services team to get a job in design.'
+    display_name: UX/UI Design Immersion
+    duration: 5
+    duration_units: months
+    financing: true
+    guarantee: !!python/unicode 'Yes - if you don''t get a job in tech within 6 months of graduation, Thinkful will reimburse your tuition'
+    outcomes_verified: true
+    placement: Over 80% of our Thinkful graduates have found full-time employment within 6 months of graduating.
+    reports_outcomes: true
+    scholarships: For women and veterans
+    topics:
+    - javascript
+    - html
+    - css
+    - prototyping
+    - testing
+    - ui
+    - user-research
+    - ux
+    - wireframing
+    tuition: 13500
+    tuition_units: USD
 tagline: An online program to go from beginner to engineer
 twitter: thinkful
 website: https://www.thinkful.com/bootcamp/web-development/flexible/
