@@ -398,6 +398,56 @@ programs:
     - analytics
     tuition: 5500
     tuition_units: USD
+flexible-technical-project-management-bootcamp:
+    admissions: Complete an interview to make sure your learning preferences and schedule aligns with the course
+    cities:
+    - remote
+    - atlanta
+    - austin
+    - boston
+    - chicago
+    - dallas
+    - denver
+    - detroit
+    - houston
+    - los-angeles
+    - miami
+    - minneapolis
+    - new-york
+    - orlando
+    - philadelphia
+    - phoenix
+    - raleigh
+    - salt-lake-city
+    - san-diego
+    - san-francisco
+    - seattle
+    - tampa
+    - washington-dc
+    commitment: part-time
+    cost_description: $1,500 per month
+    description: !!python/unicode 'Thinkful''s Technical Project Management program helps students break into tech as a project manager. Learn how to plan, schedule, and budget in a business setting while developing the leadership skills for long-term career growth. A flexible format that works around your schedule, with industry mentors and career support until you’re hired.'
+    display_name: Flexible Technical Project Management Bootcamp
+    duration: 5
+    duration_units: months
+    financing: true
+    guarantee: !!python/unicode 'Yes - if you don''t get a job in technical project management within 6 months of graduation, Thinkful will reimburse your tuition'
+    outcomes_verified: true
+    placement: Over 80% of graduates have found full-time employment within 6 months of graduating.
+    reports_outcomes: true
+    scholarships: For women and veterans
+    topics:
+    - digital-marketing-landscape
+    - campaigns
+    - customer-insights
+    - branding
+    - content-marketing
+    - email-marketing
+    - social-media-marketing
+    - search-marketing
+    - analytics
+    tuition: 6750
+    tuition_units: USD
 tagline: An online program to go from beginner to engineer
 twitter: thinkful
 website: https://www.thinkful.com/bootcamp/web-development/flexible/
